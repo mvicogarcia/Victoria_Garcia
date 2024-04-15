@@ -1,4 +1,4 @@
-## Hola
+# Hola
 
 ![](../images/anibal.jpeg)
 
