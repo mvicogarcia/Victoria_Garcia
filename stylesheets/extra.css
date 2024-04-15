@@ -42,7 +42,7 @@
 }
 
 :root {
-  --md-primary-fg-color:        #0c453aff;
-  --md-primary-fg-color--light: rgb(37, 243, 202);
-  --md-primary-fg-color--dark:  #0c453aff;
+  --md-primary-fg-color:        rgb(36, 175, 147);
+  --md-primary-fg-color--light: rgb(24, 106, 212);
+  --md-primary-fg-color--dark:  rgb(209, 36, 122);
 }
