@@ -7,4 +7,6 @@ Me llamo Victoria. Soy arquitecta egresada de UdelaR, y trabajo como profesional
 ## Links
 **[Linkedin](https://www.linkedin.com/in/victoria-garcia3086/)**
 
-**[Instagram](https://www.instagram.com/lafabrica_makerspace//)**
+**[Instagram](https://www.instagram.com/lafabrica_makerspace/)**
+
+
