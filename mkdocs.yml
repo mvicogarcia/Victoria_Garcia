@@ -1,7 +1,7 @@
 # Replace the text below to customize your site
-site_name: Nombre Estudiante - UTEC & Fab Lab Barcelona
-site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
+site_name: Nombre Estudiante - Victoria García
+site_description: EFDI 2024
+site_author: Victoria García
 copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/efdi-template/
@@ -41,7 +41,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: custom
-    accent: purple
+    accent: red
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
