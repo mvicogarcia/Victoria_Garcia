@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/efdi-template/inicio/</loc>
+         <lastmod>2024-05-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/efdi-template/about/me/</loc>
          <lastmod>2024-05-20</lastmod>
          <changefreq>daily</changefreq>
