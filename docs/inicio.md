@@ -1,6 +1,6 @@
 ## Hola!
 
-![](../images/efdi.jpg)
+![](../images/efdi.JPG)
 
 Esta web contiene la documentación de mi proceso en la **Especialización en Fabricación digital e Innovación**, edición 2024.
 
