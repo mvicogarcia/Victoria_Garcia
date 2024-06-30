@@ -314,8 +314,15 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#conceptos" class="md-nav__link">
-    Conceptos
+  <a href="#conceptos-generales" class="md-nav__link">
+    Conceptos Generales
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entradas-y-salidas-en-arduino" class="md-nav__link">
+    Entradas y Salidas en Arduino
   </a>
   
 </li>
@@ -534,8 +541,15 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#conceptos" class="md-nav__link">
-    Conceptos
+  <a href="#conceptos-generales" class="md-nav__link">
+    Conceptos Generales
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entradas-y-salidas-en-arduino" class="md-nav__link">
+    Entradas y Salidas en Arduino
   </a>
   
 </li>
@@ -610,7 +624,7 @@
                 
                 <h2 id="mt04-introduccion-a-electronica-y-programacion-arduino-ide">MT04 Introducción a electrónica y programación (Arduino IDE)<a class="headerlink" href="#mt04-introduccion-a-electronica-y-programacion-arduino-ide" title="Permanent link">&para;</a></h2>
 <p>El objetivo de este módulo es introducirnos en los principios de programación y electrónica aplicada en microcontroladores, utilizando la plataforma de desarrollo Arduino IDE. </p>
-<h3 id="conceptos">Conceptos<a class="headerlink" href="#conceptos" title="Permanent link">&para;</a></h3>
+<h3 id="conceptos-generales">Conceptos Generales<a class="headerlink" href="#conceptos-generales" title="Permanent link">&para;</a></h3>
 <p><strong><a href="https://arduino.cl/que-es-arduino/">Arduino</a>:</strong> es una plataforma para <strong><a href="https://es.wikipedia.org/wiki/Inform%C3%A1tica_f%C3%ADsica">informática física</a></strong> de código abierto basada en hardware (placa electrónica) y software (Arduino IDE), fácil de usar.</p>
 <p>La <strong><a href="https://es.wikipedia.org/wiki/Arduino">placa Arduino</a></strong> se basa en una placa electrónica de hardware libre que incorpora un <strong><a href="https://www.estudioelectronica.com/que-es-un-microcontrolador/">microcontrolador</a></strong> re-programable y una serie de pines hembra. Estos permiten establecer conexiones entre el microcontrolador y los diferentes sensores y actuadores de una manera muy sencilla, principalmente con <strong><a href="https://es.wikipedia.org/wiki/Cable_puente">cables dupont</a></strong>.</p>
 <p>Mediante estas conexiones la placa Arduino puede leer <strong>entradas</strong> (luz en un sensor, un dedo en un botón o un mensaje de Twitter) y convertirlo en una <strong>salida</strong>, activando un motor, encendiendo un LED, o publicando algo en línea. </p>
@@ -618,7 +632,6 @@
 <p><strong>Más sobre Arduino</strong>:</p>
 <p><strong><a href="https://www.arduino.cc/">Web de Arduino</a></strong></p>
 <p><strong><a href="https://www.arduino.cc/en/software">Arduino IDE</a></strong></p>
-<p><strong><a href="https://docs.arduino.cc/learn/microcontrollers/digital-pins/">Cómo funcionan los pins digitales y cómo se configuran</a></strong></p>
 <p><strong><a href="https://www.esc19.net/cms/lib011/TX01933775/Centricity/Domain/110/make_gettingstartedwitharduino_3rdedition.pdf">Getting Started with Arduino</a></strong></p>
 <p><strong><a href="https://vimeo.com/18390711">Arduino The Documentary</a></strong></p>
 <p><strong>Interaction Design o Diseño de Interacción:</strong> es el diseño de cualquier experiencia interactiva. Se ocupa de la creación de experiencias significativas entre nosotros (los seres humanos) y los objetos. Fomenta el diseño a través de un proceso iterativo basado en prototipos de fidelidad cada vez mayor. 
@@ -627,6 +640,17 @@ Este enfoque, que también forma parte de algunos tipos de diseño convencional,
 <p><strong><a href="https://www.tinkercad.com/circuits">Tinkercad Circuits</a>:</strong> esta plataforma online nos permite diseñar y simular circuitos electrónicos de manera virtual. Para comenzar a utilizar Tinkercad debes registrarte con una cuenta de correo electrónico.
 Incluye una variedad de componentes electrónicos que se pueden arrastrar y soltar en un espacio de trabajo virtual. Tinkercad Circuits también permite la integración de microcontroladores como el Arduino, permitiendo a los usuarios escribir y simular código en un entorno seguro y controlado.</p>
 <p><strong><a href="https://formacion.intef.es/mod/book/view.php?id=2625&amp;chapterid=2413">Más sobre Tinkercad Circuits</a></strong> </p>
+<h3 id="entradas-y-salidas-en-arduino">Entradas y Salidas en Arduino<a class="headerlink" href="#entradas-y-salidas-en-arduino" title="Permanent link">&para;</a></h3>
+<p>Arduino dispone de una serie de entradas (inputs) y salidas (outputs) digitales y analógicas programables que es la base de manejo de Arduino.
+En todas las placas los pines son multifunción o multipropósito, es decir en función de la configuración tienen una funcionalidad u otra.</p>
+<p><strong>Input (Entrada):</strong> Los pines configurados como entrada se utilizan para recibir información del mundo exterior hacia la placa Arduino. Estos pines leen señales eléctricas que provienen de diversos sensores o dispositivos, y luego el microcontrolador las procesa.</p>
+<p><strong>Output (Salida):</strong> Los pines configurados como salida se utilizan para enviar señales eléctricas desde la placa Arduino hacia otros dispositivos o componentes del proyecto. Esto permite que el Arduino controle el comportamiento de actuadores y otros elementos.</p>
+<p>En Arduino UNO la disposición de los pines de entrada y salida son:</p>
+<p><img alt="" src="../../images/pins.png" /> </p>
+<p><strong><a href="https://docs.arduino.cc/learn/microcontrollers/digital-pins/">Cómo funcionan los pins digitales y cómo se configuran</a></strong>
+<strong><a href="https://docs.arduino.cc/learn/microcontrollers/analog-input/">Cómo funcionan los pins analógicos</a></strong></p>
+<p>Relación entre Arduino, entradas/salidas y sensores/actuadores: 
+<img alt="" src="../../images/relacion.png" /> </p>
 <h3 id="conceptos-basicos-de-electricidad">Conceptos básicos de electricidad<a class="headerlink" href="#conceptos-basicos-de-electricidad" title="Permanent link">&para;</a></h3>
 <p><strong><a href="https://fablabbcn-projects.gitlab.io/learning/precourse/#electronics_coding/volts_waterfalls/">Tutorial de Referencia</a></strong> </p>
 <p>En un átomo, el núcleo mantiene unidos a los protones y neutrones, mientras que los electrones orbitan alrededor de ellos:</p>
