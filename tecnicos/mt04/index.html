@@ -382,28 +382,14 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#archivos-del-proyecto" class="md-nav__link">
-    Archivos del Proyecto
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#links-de-webs-y-tutoriales-adicionales" class="md-nav__link">
-    Links de webs y tutoriales adicionales
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#reflexion" class="md-nav__link">
-    Reflexión
+  <a href="#reflexiones" class="md-nav__link">
+    Reflexiones
   </a>
   
 </li>
@@ -644,28 +630,14 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#archivos-del-proyecto" class="md-nav__link">
-    Archivos del Proyecto
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#links-de-webs-y-tutoriales-adicionales" class="md-nav__link">
-    Links de webs y tutoriales adicionales
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#reflexion" class="md-nav__link">
-    Reflexión
+  <a href="#reflexiones" class="md-nav__link">
+    Reflexiones
   </a>
   
 </li>
@@ -770,20 +742,31 @@ Los sensores son el primer eslabón de la cadena de IoT (Internet of Things o <s
 <p><strong>Multímetro:</strong> es un dispositivo que combina varias funciones de medición en una sola unidad. Como mínimo, puede medir voltaje, resistencia y corriente. También sirve como una herramienta de depuración para verificar la continuidad entre puntos en el circuito, ya sea intencional o no.</p>
 <p><strong>Breadboard o Placa de Pruebas:</strong> es una herramienta de creación de prototipos que utilizamos para hacer que los circuitos sean rápidos y se repitan fácilmente.</p>
 <h2 id="actividad-mt04">Actividad MT04<a class="headerlink" href="#actividad-mt04" title="Permanent link">&para;</a></h2>
+<p>Objetivos: 
+- Leer mínimo 2 inputs (módulo sensor de distancia SRF05 / pulsador + fotoresistencias)
+- Actuar mínimo 2 outputs (recomendamos servomotor + leds)
+- Utilizar Tinkercad Electronics y Kit de Arduino
+- Documentar proceso </p>
 <h3 id="materiales"><strong>Materiales</strong><a class="headerlink" href="#materiales" title="Permanent link">&para;</a></h3>
-<p><strong><a href="https://arduino.cl/kits-arduino/">Kit Arduino</a></strong>. 
-En este curso nos centramos en Kits con la <strong><a href="https://es.wikipedia.org/wiki/Arduino_Uno">placa Arduino Uno</a></strong>.</p>
-<p>Un componente electrónico es un dispositivo que forma parte de un circuito electrónico. Se suelen encapsular, generalmente en un material cerámico, metálico o plástico, y terminar en dos o más terminales o patillas metálicas. Se diseñan para ser conectados entre ellos, normalmente mediante soldadura, a un circuito impreso.</p>
+<p><strong><a href="https://arduino.cl/kits-arduino/">Kit Arduino</a></strong> / En este curso nos centramos en Kits con la <strong><a href="https://es.wikipedia.org/wiki/Arduino_Uno">placa Arduino Uno</a></strong>.</p>
+<p><img alt="" src="../../images/arduino-uno.jpg" /></p>
 <p>Los <strong>componentes</strong> son dispositivos físicos, mientras que los <strong>elementos</strong> son modelos o abstracciones idealizadas que constituyen la base para el estudio teórico de los mencionados componentes.</p>
-<p><img alt="" src="../../images/arduino-uno.jpg" /> </p>
+<p>Un componente electrónico es un dispositivo que forma parte de un <strong>circuito electrónico</strong>. Se suelen encapsular, generalmente en un material cerámico, metálico o plástico, y terminar en dos o más terminales o patillas metálicas. Se diseñan para ser conectados entre ellos, normalmente mediante soldadura, a un circuito impreso.</p>
 <p><strong><a href="https://candy-ho.com/Drivers/librodeproyectosdearduinostarterkit-151212174250.pdf">Libro de proyectos</a></strong></p>
 <h3 id="proceso"><strong>Proceso</strong><a class="headerlink" href="#proceso" title="Permanent link">&para;</a></h3>
-<h3 id="archivos-del-proyecto"><strong>Archivos del Proyecto</strong><a class="headerlink" href="#archivos-del-proyecto" title="Permanent link">&para;</a></h3>
-<p>Formato de archivos entregables:
-- archivos .ino (arduino)</p>
-<h3 id="links-de-webs-y-tutoriales-adicionales"><strong>Links de webs y tutoriales adicionales</strong><a class="headerlink" href="#links-de-webs-y-tutoriales-adicionales" title="Permanent link">&para;</a></h3>
-<p><a href="https://aprendiendoarduino.wordpress.com/">https://aprendiendoarduino.wordpress.com/</a></p>
-<h2 id="reflexion"><strong>Reflexión</strong><a class="headerlink" href="#reflexion" title="Permanent link">&para;</a></h2>
+<p><strong>1.  Lectura de Sensor DHT11 (Temperatura y Humedad)</strong></p>
+<p><strong><a href="https://programarfacil.com/blog/arduino-blog/sensor-dht11-temperatura-humedad-arduino/#Conectando_el_DHT11_a_Arduino">Tutorial de Referencia</a></strong> </p>
+<p>El módulo DHT11 que viene en el kit, está integrado dentro de un PCB y viene con la resistencia pull-up integrada.
+No pude hacer la simulación en Tinkercad, porque no encontré el módulo DHT11 dentro de los componentes.</p>
+<p>Conexión de la placa Arduino Uno y los elementos en la breadboard:
+<img alt="" src="../../images/DHT11conex.png" /></p>
+<p>Incluir biblioteca, copia y edición de código en IDE:
+<img alt="" src="../../images/DHT11ide.png" /></p>
+<p>Si bien al verificar el código no me arrojó error, al Cargar no pude obtener lectura del sensor.
+<strong><a href="https://drive.google.com/file/d/1YjuLG3MJcR9NmDdTFjieiRVemp7Iyh1-/view?usp=drive_link">Descarga de Archivo .ino</a></strong></p>
+<h2 id="reflexiones"><strong>Reflexiones</strong><a class="headerlink" href="#reflexiones" title="Permanent link">&para;</a></h2>
+<p><em>Este módulo me resultó muy desafiante, por ser mi primer acercamiento a la electrónica. Me sentí bastante abrumada por la cantidad de información que hay disponible online, por lo que primero intenté armar circuitos sencillos para familiarizarme con los componentes del kit, y después pasé a la programación y el uso de Tinkercad. Fue un camino un poco inverso a lo que se planteó en las clases, pero me sirvió para enfocarme y buscar ejemplos para completar las actividades planteadas.</em></p>
+<p><em>Me gustaría que este módulo cuente con una instancia práctica, para poder resolver uno o varios ejercicios en grupo.</em></p>
                 
                   
                     
