@@ -50,7 +50,7 @@ theme:
     accent: blue
   font:
     # See available fonts at https://fonts.google.com/
-    text: overpass
+    text: Roboto
     code: Cutive Mono
   icon:
     logo: material/memory
