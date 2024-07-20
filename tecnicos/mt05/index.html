@@ -368,6 +368,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#relleno" class="md-nav__link">
+    Relleno
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#soportes" class="md-nav__link">
     Soportes
   </a>
@@ -682,6 +689,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#relleno" class="md-nav__link">
+    Relleno
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#soportes" class="md-nav__link">
     Soportes
   </a>
@@ -832,7 +846,27 @@ Se denomina <strong><a href="https://markforged.com/es/resources/blog/additive-m
 <p>El <strong><a href="https://youtu.be/FiMQ8kG7394?si=FsthAvShzDhfweR5">sinterizado selectivo por láser</a></strong> (selective laser sintering) es una tecnología de fabricación aditiva que utiliza un láser de alta potencia para <strong><a href="https://es.wikipedia.org/wiki/Sinterizaci%C3%B3n">sinterizar</a></strong> pequeñas partículas de polímero en polvo y convertirlo en una estructura sólida basada en un modelo 3D. 
 Requiere un alto nivel de precisión y un control estricto a lo largo de todo el proceso de impresión. La temperatura del polvo y la de las piezas (sin terminar) no debe variar más de 2 ºC durante las tres fases del precalentado, sinterizado y almacenamiento antes de retirar la pieza, de forma que se minimice la posibilidad de que se produzca deformación, esfuerzos o distorsión provocada por el calor.</p>
 <h3 id="altura-de-capa-y-resolucion">Altura de Capa y Resolución<a class="headerlink" href="#altura-de-capa-y-resolucion" title="Permanent link">&para;</a></h3>
+<p>En impresión 3D, la altura de capas es sinónimo de <strong><a href="https://formlabs.com/latam/blog/significado-resolucion-impresora-3d/">resolución</a></strong> o definición, e influye en el tiempo de impresión, cantidad de material a utilizar y costo de la pieza. Se requiere mejor resolución en objetos curvos y/o sinuosos. </p>
+<p>Ejemplo: </p>
+<p><img alt="" src="../../images/resolucion.png" /></p>
+<ul>
+<li>0.2mm, se tiene un modelo que tiene una curvatura o superficie muy suave que requiere muchas capas para que sea continua y tenga un acabado liso como se necesita.</li>
+<li>0.1mm. Ya podemos ver una superficie más suave en que las capas o &ldquo;escalones&rdquo; se ven menos pronunciados</li>
+<li>0.05mm. Se obtiene una superficie mucho más refinada y lisa. En cambio las horas de impresión aumentan exponencialmente.</li>
+</ul>
 <h3 id="paredes">Paredes<a class="headerlink" href="#paredes" title="Permanent link">&para;</a></h3>
+<p>El grosor de las paredes es importante para garantizar no sólo las cualidades estéticas, sino también la resistencia y la durabilidad, y para dar una buena base para el postratamiento. 
+Una de las principales ventajas de tener el grosor de pared correcto al imprimir en 3D es que ayudará a reducir la tensión interna y por lo tanto el <em>warping</em>, pero con algunos materiales (los metales, por ejemplo) un exceso de material también puede provocar más tensión interna.</p>
+<p>Por otro lado, si las paredes son demasiado gruesas, se desperdicia material y dinero, y la impresión tardará más en completarse. 
+En piezas de plástico, puede generar grietas y causar problemas de disipación del calor en la pieza. Además, cuanto más gruesas sean las paredes, mayor será la contracción del material de la impresión, lo que también provoca deformaciones.</p>
+<p><em>¿Cómo determinar el grosor de las paredes?</em>
+Hay que tener en cuenta que el grosor está ligado al material más que al proceso.
+En esta caso nos centramos en impresión 3D FDM:
+Un determinante común del grosor de la pared es un múltiplo del diámetro de la boquilla.</p>
+<p><img alt="" src="../../images/pared-fdm.png" /></p>
+<p>La mayoría de las boquillas para impresión FDM rondan los 0,4 mm, se recomienda un grosor de pared de al menos 0,8 mm (el doble de la boquilla). Para una pieza más resistente, se puede aumentar el múltiplo hasta tres o cuatro veces (entre 1,2 mm y 1,6 mm). No se recomienda sobrepasar ese grosor, el “rango mágico” oscila entre 0,8 y 1,6 mm para los materiales plásticos comunes.
+Mantener los múltiplos a números enteros de la boquilla. Un grosor de pared que sea 1,5 veces la boquilla, puede causar superposición en las capas de las paredes exteriores y ralentizar la impresión.</p>
+<h3 id="relleno">Relleno<a class="headerlink" href="#relleno" title="Permanent link">&para;</a></h3>
 <h3 id="soportes">Soportes<a class="headerlink" href="#soportes" title="Permanent link">&para;</a></h3>
 <h3 id="plataforma-de-adherencia">Plataforma de Adherencia<a class="headerlink" href="#plataforma-de-adherencia" title="Permanent link">&para;</a></h3>
 <h3 id="reparacion-de-errores-en-archivos-stl">Reparación de errores en Archivos .STL<a class="headerlink" href="#reparacion-de-errores-en-archivos-stl" title="Permanent link">&para;</a></h3>
@@ -840,14 +874,14 @@ Requiere un alto nivel de precisión y un control estricto a lo largo de todo el
 <h3 id="software-slicer">Software Slicer<a class="headerlink" href="#software-slicer" title="Permanent link">&para;</a></h3>
 <h3 id="escaneo-3d">Escaneo 3D<a class="headerlink" href="#escaneo-3d" title="Permanent link">&para;</a></h3>
 <h2 id="actividad-mt05">Actividad MT05<a class="headerlink" href="#actividad-mt05" title="Permanent link">&para;</a></h2>
-<p>Objetivos:</p>
+<p><strong>Objetivos:</strong></p>
 <ul>
 <li>Generar un archivo .gcode a partir de un modelo 3D siguiendo los tutoriales y las instrucciones, para imprimir en la semana de fabricación FP02.</li>
 <li>Documentar el proceso y publicarlo en el repositorio de github.</li>
 </ul>
-<p>Pasos realizados siguiendo el tutorial disponible en la plataforma EDU:</p>
-<p><strong>1</strong> Descargar el archivo5 .f3d  </p>
-<p><strong>2</strong> Abrir el mismo en FUSION 360 y exportarlo como .STL (binario)</p>
+<p><strong>Pasos realizados siguiendo el tutorial disponible en la plataforma EDU:</strong></p>
+<p><strong>1</strong> Descargar el archivo5.f3d  </p>
+<p><strong>2</strong> Abrirlo en FUSION 360 y exportarlo como .STL (binario)</p>
 <p><img alt="" src="../../images/1-modeloenfusion.png" />
 <img alt="" src="../../images/2-guardarSTL.png" /></p>
 <p><em>Imagen 1: Modelo en Fusion 360 / Imagen 2: Exportación de modelo 3D a malla poligonal (.stl)</em></p>
@@ -863,7 +897,7 @@ Requiere un alto nivel de precisión y un control estricto a lo largo de todo el
 <p><img alt="" src="../../images/3-modeloenideam.png" /></p>
 <p><em>Imagen: Archivo .stl en IdeaMaker y elección de extrusor izquierdo</em></p>
 <p><strong>5</strong> Ubicar la pieza en la posición que crea más conveniente para su fabricación mediante tecnlogía FDM (Utilizar los comandos de MOVER Y ROTAR)</p>
-<p><strong>6</strong> Escalar dicho archivo y aumentar su tamaño (manteniendo proporciones) a un 150% </p>
+<p><strong>6</strong> Escalar y aumentar tamaño (manteniendo proporciones) a un 150% </p>
 <p><img alt="" src="../../images/4-escalar.png" /></p>
 <p><em>Imagen: Escala uniforme a 150%</em></p>
 <p><strong>7</strong> Generar soportes y base de construcción del tipo BALSA</p>
@@ -918,7 +952,7 @@ Requiere un alto nivel de precisión y un control estricto a lo largo de todo el
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 18, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 20, 2024</span>
     
   </small>
 </div>
