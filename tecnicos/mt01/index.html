@@ -804,6 +804,43 @@ Es un sistema de control de versiones distribuido. Se destaca por realizar una c
 Utilicé Github como hosting, Git como control de versiones, y Visual Studio como software de edición.</p>
 <p><strong>1</strong>. Crear una cuenta en <strong><a href="https://github.com/">GitHub</a></strong></p>
 <p>Al resgistrar el nombre de usuario, tener en cuenta que quedará visible en el link de la página web</p>
+<p><strong>2</strong>. Instalar y setear <strong><a href="https://gitforwindows.org/">Git</a></strong> en la PC</p>
+<ul>
+<li>Abrir la terminal (gitbash), en la PC </li>
+<li>Usar el mismo nombre de usuario que en GitHub</li>
+<li>git config –global user.name “username”</li>
+<li>git config –global user.name “tu_mail”</li>
+<li>Para verificar la configuración escribir en la Terminal: git config –-global –-list</li>
+</ul>
+<p><strong>3</strong>. Generar una SSH KEY <strong><a href="https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">Git</a></strong> en la PC</p>
+<ul>
+<li>Es un protocolo que permite establacer una conexión segura entre la PC y github</li>
+<li>Verificar en la terminal si ya tenemos una SSH Key, escribiendo en la terminal:  cat ~/.ssh/id_rsa.pub</li>
+<li>Crear la SSH KEY: ssh-keygen -t rsa -C “mail”</li>
+<li>Volver a hacer la verificación</li>
+<li>Copiar la SSH KEY escribiendo en la terminal: clip &lt; ~/.ssh/id_rsa.pub</li>
+<li>Pegar la SSH KEY en la cuenta de Github (en la web). <a href="https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">Más información</a>.</li>
+</ul>
+<p><img alt="" src="../../images/sshkey.png" /></p>
+<p><strong>3</strong>. Realizar el **<a href="https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo">Fork</a> del template para crear tu repositorio remoto en GitHub.</p>
+<ul>
+<li>Abrir el <a href="https://fablabbcn.github.io/efdi-template/">efdi-template</a></li>
+<li>Dirigirse a Name: Github Repo, y presionar Fork</li>
+<li>En owner debe estar tu usuario de GitHub</li>
+<li>Nombrar al repo con tu Nombre_Apellido</li>
+</ul>
+<p>Una vez creado el fork, se crea un repositorio remoto con un template del sitio web listo para editar.</p>
+<p><strong>4</strong>. Crear un repositorio local o clon en tu PC</p>
+<ul>
+<li>Crear una carpeta en tu PC (se recomienda en el escritorio)</li>
+<li>Acceder a la carpeta creada desde Gitbash: puede ser en la terminal, navegando con el comando cd ó abrir directamente desde la carpeta creada con el botón derecho del mouse y la opción &ldquo;open gitbash here&rdquo;.</li>
+<li>Copiar el link del repositorio remoto en GitHub (clone using SSH KEY), se encuentra en el menú CODE:</li>
+</ul>
+<p><img alt="" src="../images/code.png" /></p>
+<ul>
+<li>Clonar el repo remoto en mi PC usando: git clone + el link copiado</li>
+</ul>
+<p><strong>5</strong>. Activar el link del sitio web en GitHub</p>
 <p>Hice varias pruebas de cambios pequeños para ir entendiendo cómo se reflejan en la web. 
 Me ayudó que la web ya tiene un formato y contenido precargados, para entender como colocar títulos, subtítulos, texto e imágenes.
 En Visual Studio, un error que tuve fue no ponerle nombre a los cambios antes de hacer Commit. 
