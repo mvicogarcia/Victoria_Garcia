@@ -2,6 +2,8 @@
 
 Ésta fue una clase presencial en salón del LATU, en Montevideo.
 
+![](../images/biomat/clase.png)
+
 La primera parte de la clase fue una charla a cargo de Joseán Vilar, de [NAIFACTORY LAB](https://naifactorylab.com/).
 
 Nos comentó sobre su trayectoria personal y profesional, y sobre los materiales que desarrollan y sus aplicaciones en arquitectura efímera, escenografías, señalética, etc.
