@@ -62,6 +62,8 @@ Para esto también es importante que el marco de borde sea de madera, ya que es 
 
 **Evitar el crecimiento de hongos:**
 
+![](../images/biomat/hongos.png)
+
 Para evitar la floración y crecimiento de hongos en nuestros materiales, agregaremos a las mezclas en base a gelatina y Agar Agar una pequeña cantidad de vinagre, o bien gotitas de aceites esenciales. En general el vinagre no tiene mayor incidencia en el resultado de las muestras, más allá del olor que emite durante el cocinado y secado. Este olor desaparece con el tiempo. Las gotitas de aceites esenciales por su parte, dan un agradable aroma a las muestras, sin embargo, algunas veces estos aceites pueden cambiar los tintes de las muestras o bien alterar su consistencia al momento de preparación en la olla, experimentar con ello.
 
 Una vez que la muestra ha sido vertida en su molde y comienza el proceso de secado lo ideal es dejarlas en un ambiente temperado de una temperatura media entre 22 y 25 grados centígrados. Durante la primavera y el verano esto no será difícil de lograr en un recinto que reciba sol directo durante gran parte del día, aunque nos aseguraremos de secar en la sombra evitando que el sol llegue directo, especialmente sobre las muestras de gelatina. Durante el invierno lo ideal será secar en una superficie próxima a un calefactor o radiador, donde la temperatura será estable.
