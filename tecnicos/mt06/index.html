@@ -345,8 +345,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#placa-esp" class="md-nav__link">
-    Placa ESP
+  <a href="#placa-esp32" class="md-nav__link">
+    Placa ESP32
   </a>
   
 </li>
@@ -624,8 +624,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#placa-esp" class="md-nav__link">
-    Placa ESP
+  <a href="#placa-esp32" class="md-nav__link">
+    Placa ESP32
   </a>
   
 </li>
@@ -681,6 +681,7 @@
                 <h2 id="mt06-networking">MT06 Networking<a class="headerlink" href="#mt06-networking" title="Permanent link">&para;</a></h2>
 <p>Las clases teóricas fueron dictadas por Josep, docente de Fab Lab Barcelona.</p>
 <p><img alt="" src="../../images/MT06/internet.jpg" /></p>
+<p><em>Mapa parcial de Internet basado en la información obtenida del sitio opte.org el 15 de enero de 2005. Cada línea dibujada entre dos nodos representa el enlace entre dos direcciones IP.</em></p>
 <h2 id="conceptos">Conceptos<a class="headerlink" href="#conceptos" title="Permanent link">&para;</a></h2>
 <p><strong>Internet</strong>: es un <em>conjunto descentralizado de redes de comunicaciones interconectadas</em>, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen una red lógica única de alcance mundial.1​ Sus orígenes se remontan a 1969, cuando se estableció la primera conexión de computadoras, conocida como ARPANET, entre tres universidades en California (Estados Unidos).</p>
 <p><strong>World Wide Web</strong>: conjunto de <em>protocolos</em> que permite, de forma sencilla, la consulta remota de archivos de hipertexto. Esta fue un desarrollo posterior (1990) y utiliza internet como medio de transmisión.</p>
@@ -735,19 +736,20 @@ Dependiendo de la <em>frecuencia</em> y de la <em>potencia</em> de la señal ten
 </ul>
 </li>
 </ul>
-<h3 id="placa-esp">Placa ESP<a class="headerlink" href="#placa-esp" title="Permanent link">&para;</a></h3>
+<h3 id="placa-esp32">Placa ESP32<a class="headerlink" href="#placa-esp32" title="Permanent link">&para;</a></h3>
+<p>Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos.</p>
 <p><strong><a href="https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/">Funciones útiles</a></strong></p>
-<p><img alt="" src="../images/MT06/esp32.jpg" /></p>
+<p><img alt="" src="../../images/MT06/esp32.png" /></p>
 <p><strong>Modo Estación</strong>: (STA) se utiliza para que el módulo ESP se conecte a una red Wi-Fi establecida por el punto de acceso.</p>
-<p><img alt="" src="../images/MT06/sta.jpg" /></p>
-<p><strong>Soft-AP</strong>: La placa <strong>ESP8266</strong> puede funcionar similar a un AP, excepto que no tiene interfaz a una red cableada.</p>
-<p><img alt="" src="../images/MT06/soft.jpg" /></p>
+<p><img alt="" src="../../images/MT06/sta.png" /></p>
+<p><strong>Soft-AP</strong>: La placa ESP puede funcionar similar a un AP, excepto que no tiene interfaz a una red cableada.</p>
+<p><img alt="" src="../../images/MT06/soft.png" /></p>
 <p>Otra aplicación es la creación de redes malladas, funcionando tanto en modo Soft-AP como en modo Estación.</p>
-<p><img alt="" src="../images/MT06/mallada.jpg" /></p>
+<p><img alt="" src="../../images/MT06/mallada.png" /></p>
 <h3 id="mqtt">MQTT<a class="headerlink" href="#mqtt" title="Permanent link">&para;</a></h3>
-<p><img alt="" src="../images/MT06/mqtt.jpg" /></p>
+<p><img alt="" src="../../images/MT06/mqtt.png" /></p>
 <p>Es un <strong>protocolo</strong> que utiliza un modelo de <strong>publicación/suscripción</strong> basado en eventos para poder enviar mensajes a los clientes.</p>
-<p><img alt="" src="../images/MT06/broker.jpg" /></p>
+<p><img alt="" src="../images/MT06/broker.pnllg" /></p>
 <p>La comunicación pasa por un punto central llamado <strong>broker</strong> que gestiona el envío de mensajes entre emisores y receptores.</p>
 <p>El <strong>topic</strong> es una forma de categorizar los mensajes. Cada cliente, el enviar un mensaje lo hace incluyendo un topic, y para recibir mensajes se suscribe a un topic.</p>
 <h2 id="actividad-mt06">Actividad MT06<a class="headerlink" href="#actividad-mt06" title="Permanent link">&para;</a></h2>
@@ -761,7 +763,7 @@ Dependiendo de la <em>frecuencia</em> y de la <em>potencia</em> de la señal ten
 <ul>
 <li>Arduino IDE</li>
 <li>Wokwi</li>
-<li>Kit de electrónica</li>
+<li>Placa ESP32 + Kit de electrónica</li>
 <li>Multímetro </li>
 </ul>
 <p><strong>1</strong>  Instalar la placa ESP32 en Arduino IDE</p>
