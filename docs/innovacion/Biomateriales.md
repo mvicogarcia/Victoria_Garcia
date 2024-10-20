@@ -56,7 +56,9 @@ BIOMATERIALES = BIOLOGÍA + NATURALEZA + DISEÑO
 Para esto también es importante que el marco de borde sea de madera, ya que es clave la adherencia en el borde, incluso mejor si lo sobrepasamos levemente con la mezcla. Como materiales alternativos a la tela goretex, - totalmente impermeable - podemos utilizar otros tipos de telas con texturas - semi-permeables - en base a algodón y poliéster por ejemplo, para evitar que se nos escape el líquido al momento del vaciado, pero al ser semi-permeables permiten que la muestra libere humedad tanto por su superficie superior como por la inferior. 
 - Para las recetas basadas en Resina de Pino (o colofonia) utilizaremos los moldes de madera maciza forrados con papel de horno. El papel de horno evita que la resina se pegue directamente a la madera y nos permite desmoldar la pieza con la inmediatez que hemos visto en el Bootcamp.
 
-Advertencia : Si se va a utilizar algún utensilio que podamos encontrar en nuestra cocina, será muy importante lavar muy bien luego de usar, e idealmente evitar volver a usar para fines de alimentación, más bien incorporarlo a los materiales de fabricación, con una marca o algo que evite que volvemos a cocinar alimentos con él.
+
+**Advertencia:** Si se va a utilizar algún utensilio que podamos encontrar en nuestra cocina, será muy importante lavar muy bien luego de usar, e idealmente evitar volver a usar para fines de alimentación, más bien incorporarlo a los materiales de fabricación, con una marca o algo que evite que volvemos a cocinar alimentos con él.
+
 
 **Evitar el crecimiento de hongos:**
 
@@ -74,7 +76,7 @@ Si aún así afloran hongos o moho, estos se pueden controlar con alcohol en spr
 - Desmolde agar agar: Una vez la pieza se haya secado (cuando la tocamos y ya no la sentimos fría, sino a temperatura ambiente) podemos sacarla del molde. Para esto tomamos las piezas, y retiramos las pinzas que posicionan el marco sobre la base, luego intentamos despegar un borde del marco, utilizando un cutter para ayudarnos si fuese necesario. Y buscamos un borde del que podamos tirar homogéneamente la superficie para evitar que se rasgue.
 Es muy común que los bordes se hayan rasgado un poco, o que se hayan despegado y no estén del todo conformados. Lo que podemos hacer en ese caso es cortarlos para obtener planchas homogéneas.
 
-A evitar: Si tenemos como resultado una pieza de cierto grosor, como se puede lograr con gelatina y café lo que se recomienda es una vez desmoldado dejar aun más días de secado aplastada por elementos de cierto peso, como libros, pero cubiertos por un papel del horno o algo impermeable que evite que se estropeen los libros con la humedad que las piezas continuarán liberando, y voltear cada 6 horas aprox.
+- A evitar: Si tenemos como resultado una pieza de cierto grosor, como se puede lograr con gelatina y café lo que se recomienda es una vez desmoldado dejar aun más días de secado aplastada por elementos de cierto peso, como libros, pero cubiertos por un papel del horno o algo impermeable que evite que se estropeen los libros con la humedad que las piezas continuarán liberando, y voltear cada 6 horas aprox.
 
 ## Recetas open source
 
