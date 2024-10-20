@@ -15,7 +15,7 @@ La segunda parte de la clase estuvo a cargo de María Clara Freyre, docente de U
 
 BIOMATERIALES = BIOLOGÍA + NATURALEZA + DISEÑO
 
-Pasos para la creación de un biomaterial:
+**Pasos para la creación de un biomaterial:**
 
 - Preparación
 - Elaboración
@@ -55,6 +55,13 @@ Para esto también es importante que el marco de borde sea de madera, ya que es 
 
 Advertencia : Si se va a utilizar algún utensilio que podamos encontrar en nuestra cocina, será muy importante lavar muy bien luego de usar, e idealmente evitar volver a usar para fines de alimentación, más bien incorporarlo a los materiales de fabricación, con una marca o algo que evite que volvemos a cocinar alimentos con él.
 
+**Eviatr el crecimiento de hongos:**
+
+Para evitar la floración y crecimiento de hongos en nuestros materiales, agregaremos a las mezclas en base a gelatina y Agar Agar una pequeña cantidad de vinagre, o bien gotitas de aceites esenciales. En general el vinagre no tiene mayor incidencia en el resultado de las muestras, más allá del olor que emite durante el cocinado y secado. Este olor desaparece con el tiempo. Las gotitas de aceites esenciales por su parte, dan un agradable aroma a las muestras, sin embargo, algunas veces estos aceites pueden cambiar los tintes de las muestras o bien alterar su consistencia al momento de preparación en la olla, experimentar con ello.
+
+Una vez que la muestra ha sido vertida en su molde y comienza el proceso de secado lo ideal es dejarlas en un ambiente temperado de una temperatura media entre 22 y 25 grados centígrados. Durante la primavera y el verano esto no será difícil de lograr en un recinto que reciba sol directo durante gran parte del día, aunque nos aseguraremos de secar en la sombra evitando que el sol llegue directo, especialmente sobre las muestras de gelatina. Durante el invierno lo ideal será secar en una superficie próxima a un calefactor o radiador, donde la temperatura será estable.
+
+Si aún así afloran hongos o moho, estos se pueden controlar con alcohol en spray y limpiando con un cotonete, o bien con vinagre.
 
 
 **Secado y desmolde:**
@@ -66,9 +73,28 @@ Es muy común que los bordes se hayan rasgado un poco, o que se hayan despegado 
 
 A evitar: Si tenemos como resultado una pieza de cierto grosor, como se puede lograr con gelatina y café lo que se recomienda es una vez desmoldado dejar aun más días de secado aplastada por elementos de cierto peso, como libros, pero cubiertos por un papel del horno o algo impermeable que evite que se estropeen los libros con la humedad que las piezas continuarán liberando, y voltear cada 6 horas aprox.
 
+## Proyectos de Referencia
+
+[Biblioteca Materiom](https://materiom.org/)
+
+[Repulp](https://blog-espritdesign.com/crowdfunding/crowdfunding-la-tasse-a-base-de-dechets-dagrumes-par-repulp-59520)
+
+[Notpla](https://www.notpla.com/)
+
+[Karu Biodiseño](https://www.instagram.com/somoskaru/?hl=es-la)
+
+[Suzane Lee](https://www.dezeen.com/2014/02/12/movie-biocouture-microbes-clothing-wearable-futures/)
+
+[Coffee Kreis](https://www.kickstarter.com/projects/coffeekreis/the-kreis-cup-giving-coffee-a-second-life)
+
+[Cynthia Nudel](https://cynthianudel.com/)
+
+[Spyros Kizis](https://www.thegreekfoundation.com/design/artichair-by-spyros-kizis)
+
+[Hempcrete](https://elplanteo.com/hempcrete-hormigon-de-canamo/)
 
 
-## Recetas
+## Recetas realizadas en clase práctica
 
 ### Bioplástico en base a Gelatina
 
@@ -132,19 +158,15 @@ Por último, lavar el mismo debajo de la canilla para eliminar el vinagre.
 Agregar el agua, y el agar agar a la olla en frío y disolver. Agregar la glicerina. Revolviendo siempre, calentar a temperatura baja durante 2 minutos. Subir la temperatura paulatinamente cada 2 minutos. Agregar los aditivos o colorantes. La mezcla debiese cambiar su textura entre el minuto 6 y 8. Se vierte en ese momento apenas comienza a parecerse a una crema liquida.
 
 
+**Imágenes**
 
-## Actividad MT09
+![](../images/biomat/1.png)
 
-**Objetivos:**
+![](../images/biomat/2.png)
 
+![](../images/biomat/3.png)
 
-
-**Recursos utilizados:**
-
-
-
-
-uy 
+![](../images/biomat/4.png)
 
 
 
