@@ -42,6 +42,8 @@ BIOMATERIALES = BIOLOGÍA + NATURALEZA + DISEÑO
 
 **Moldes y superficies de secado:**
 
+![](../images/biomat/molde.png)
+
 - Los moldes pueden ser de madera, plástico, metálicos, de acuerdo al biomaterial que estemos generando y la teminación deseada.
 - Tener en cuenta que los bioplásticos se adhieren a los materiales porosos, puede ser una ventaja según lo que queremos lograr.
 - Antes de comenzar verificaremos con un nivel que la superficie de trabajo esté nivelada, y ubicamos los moldes en la zona más plana para evitar que los líquidos se “escapen del molde” mientras se vierte la mezcla.
@@ -103,6 +105,8 @@ A evitar: Si tenemos como resultado una pieza de cierto grosor, como se puede lo
 
 ### Bioplástico en base a Gelatina
 
+![](../images/biomat/gelatina.png)
+
 **Receta:**
 
 - 200 ml de agua
@@ -115,7 +119,10 @@ A evitar: Si tenemos como resultado una pieza de cierto grosor, como se puede lo
 
 Agregar el agua, el vinagre y la glicerina a la olla en frío, revolver para que se incorpore y dejar calentar a fuego medio. Agregar de a poco la gelatina y revolver para disolver hasta que suelte un hervor. Bajar la temperatura y agregar los aditivos o colorantes y revolver. Dejar reposar y que entibie, cuando la mezcla se pegue a los dedos, verter.
 
+
 ### Biocompuesto en base a Resina
+
+![](../images/biomat/resina.png)
 
 **Receta:**
 
@@ -132,6 +139,8 @@ Para limpiar : volver a poner alcohol en la olla y dejar hervir nuevamente en el
 
 
 ### Biocerámica en base a Aginato de Sodio
+
+![](../images/biomat/bioceramica.png)
 
 **Receta:**
 
@@ -150,6 +159,8 @@ Por último, lavar el mismo debajo de la canilla para eliminar el vinagre.
 
 ### Bioplástico en base a Agar agar
 
+![](../images/biomat/agar.png)
+
 **Receta:**
 
 - 200 ml de agua
@@ -163,7 +174,7 @@ Por último, lavar el mismo debajo de la canilla para eliminar el vinagre.
 Agregar el agua, y el agar agar a la olla en frío y disolver. Agregar la glicerina. Revolviendo siempre, calentar a temperatura baja durante 2 minutos. Subir la temperatura paulatinamente cada 2 minutos. Agregar los aditivos o colorantes. La mezcla debiese cambiar su textura entre el minuto 6 y 8. Se vierte en ese momento apenas comienza a parecerse a una crema liquida.
 
 
-**Imágenes**
+**Imágenes de la clase:**
 
 ![](../images/biomat/1.png)
 
