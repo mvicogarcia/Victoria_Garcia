@@ -107,6 +107,7 @@ Es muy común que los bordes se hayan rasgado un poco, o que se hayan despegado 
 
 ## Recetas realizadas en clase práctica
 
+
 ### Bioplástico en base a Gelatina
 
 ![](../images/biomat/gelatina.png)
