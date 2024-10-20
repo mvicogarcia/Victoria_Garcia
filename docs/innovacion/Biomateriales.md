@@ -56,7 +56,7 @@ Para esto también es importante que el marco de borde sea de madera, ya que es 
 
 Advertencia : Si se va a utilizar algún utensilio que podamos encontrar en nuestra cocina, será muy importante lavar muy bien luego de usar, e idealmente evitar volver a usar para fines de alimentación, más bien incorporarlo a los materiales de fabricación, con una marca o algo que evite que volvemos a cocinar alimentos con él.
 
-**Eviatr el crecimiento de hongos:**
+**Evitar el crecimiento de hongos:**
 
 Para evitar la floración y crecimiento de hongos en nuestros materiales, agregaremos a las mezclas en base a gelatina y Agar Agar una pequeña cantidad de vinagre, o bien gotitas de aceites esenciales. En general el vinagre no tiene mayor incidencia en el resultado de las muestras, más allá del olor que emite durante el cocinado y secado. Este olor desaparece con el tiempo. Las gotitas de aceites esenciales por su parte, dan un agradable aroma a las muestras, sin embargo, algunas veces estos aceites pueden cambiar los tintes de las muestras o bien alterar su consistencia al momento de preparación en la olla, experimentar con ello.
 
