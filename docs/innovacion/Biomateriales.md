@@ -2,12 +2,7 @@
 
 Ésta fue una clase presencial en salón del LATU, en Montevideo.
 
-La primera parte de la clase fue una charla a cargo de Joseán Vilar, de [NAIFACTORY LAB](https://naifactorylab.com/).
-
-Nos comentó sobre su trayectoria personal y profesional, y sobre los materiales que desarrollan y sus aplicaciones en arquitectura efímera, escenografías, señalética, etc.
-
-
-La segunda parte de la clase estuvo a cargo de María Clara Freyre, docente de UTEC, encargada del LabA Paysandú.
+La primera parte de la clase fue una charla a cargo de Joseán Vilar, de NAIF Factory. 
 
 ## Conceptos 
 
