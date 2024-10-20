@@ -73,9 +73,13 @@ Es muy común que los bordes se hayan rasgado un poco, o que se hayan despegado 
 
 A evitar: Si tenemos como resultado una pieza de cierto grosor, como se puede lograr con gelatina y café lo que se recomienda es una vez desmoldado dejar aun más días de secado aplastada por elementos de cierto peso, como libros, pero cubiertos por un papel del horno o algo impermeable que evite que se estropeen los libros con la humedad que las piezas continuarán liberando, y voltear cada 6 horas aprox.
 
-## Proyectos de Referencia
+## Material open source
 
-[Biblioteca Materiom](https://materiom.org/)
+[Materiom](https://materiom.org/)
+
+[Bioplastic Cook Book](ttps://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
+
+## Proyectos de Referencia
 
 [Repulp](https://blog-espritdesign.com/crowdfunding/crowdfunding-la-tasse-a-base-de-dechets-dagrumes-par-repulp-59520)
 
@@ -165,8 +169,6 @@ Agregar el agua, y el agar agar a la olla en frío y disolver. Agregar la glicer
 ![](../images/biomat/2.png)
 
 ![](../images/biomat/3.png)
-
-![](../images/biomat/4.png)
 
 
 
