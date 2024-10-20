@@ -42,7 +42,7 @@ BIOMATERIALES = BIOLOGÍA + NATURALEZA + DISEÑO
 
 **Moldes y superficies de secado:**
 
-![](../images/biomat/molde.png)
+![](../images/biomat/molde.jpg)
 
 - Los moldes pueden ser de madera, plástico, metálicos, de acuerdo al biomaterial que estemos generando y la teminación deseada.
 - Tener en cuenta que los bioplásticos se adhieren a los materiales porosos, puede ser una ventaja según lo que queremos lograr.
@@ -62,7 +62,7 @@ Para esto también es importante que el marco de borde sea de madera, ya que es 
 
 **Evitar el crecimiento de hongos:**
 
-![](../images/biomat/hongos.png)
+![](../images/biomat/hongos.jpg)
 
 Para evitar la floración y crecimiento de hongos en nuestros materiales, agregaremos a las mezclas en base a gelatina y Agar Agar una pequeña cantidad de vinagre, o bien gotitas de aceites esenciales. En general el vinagre no tiene mayor incidencia en el resultado de las muestras, más allá del olor que emite durante el cocinado y secado. Este olor desaparece con el tiempo. Las gotitas de aceites esenciales por su parte, dan un agradable aroma a las muestras, sin embargo, algunas veces estos aceites pueden cambiar los tintes de las muestras o bien alterar su consistencia al momento de preparación en la olla, experimentar con ello.
 
@@ -110,7 +110,7 @@ Es muy común que los bordes se hayan rasgado un poco, o que se hayan despegado 
 
 ### Bioplástico en base a Gelatina
 
-![](../images/biomat/gelatina.png)
+![](../images/biomat/gelatina.jpg)
 
 **Receta:**
 
@@ -127,7 +127,7 @@ Agregar el agua, el vinagre y la glicerina a la olla en frío, revolver para que
 
 ### Biocompuesto en base a Resina
 
-![](../images/biomat/resina.png)
+![](../images/biomat/resina.jpg)
 
 **Receta:**
 
@@ -164,7 +164,7 @@ Por último, lavar el mismo debajo de la canilla para eliminar el vinagre.
 
 ### Bioplástico en base a Agar agar
 
-![](../images/biomat/agar.png)
+![](../images/biomat/agar.jpg)
 
 **Receta:**
 
