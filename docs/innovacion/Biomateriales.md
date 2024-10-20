@@ -179,6 +179,12 @@ Por último, lavar el mismo debajo de la canilla para eliminar el vinagre.
 Agregar el agua, y el agar agar a la olla en frío y disolver. Agregar la glicerina. Revolviendo siempre, calentar a temperatura baja durante 2 minutos. Subir la temperatura paulatinamente cada 2 minutos. Agregar los aditivos o colorantes. La mezcla debiese cambiar su textura entre el minuto 6 y 8. Se vierte en ese momento apenas comienza a parecerse a una crema liquida.
 
 
+
+## Reflexiones
+
+*Fue una buena oportunidad para conocernos personalmente con los demás compañeros del grupo, y hacer pruebas prácticas siempre resulta muy motivador. En mi caso ya había tenido alguna experiencia con biomateriales, y la clase me brindó un marco teórico con el que no contaba. La charla a cargo de Joseán fue muy inspiradora, tanto su trayectoria personal como los materiales que han logrado generar con su equipo. Me dieron muchas ganas de seguir investigando y aprendiendo sobre biomateriales.*
+
+
 **Imágenes de la clase:**
 
 ![](../images/biomat/1.png)
@@ -186,9 +192,3 @@ Agregar el agua, y el agar agar a la olla en frío y disolver. Agregar la glicer
 ![](../images/biomat/2.png)
 
 ![](../images/biomat/3.png)
-
-
-
-## Reflexiones
-
-*Fue una buena oportunidad para conocernos personalmente con los demás compañeros del grupo, y hacer pruebas prácticas siempre resulta muy motivador. En mi caso ya había tenido alguna experiencia con biomateriales, y la clase me brindó un marco teórico con el que no contaba. La charla a cargo de Joseán fue muy inspiradora, tanto su trayectoria personal como los materiales que han logrado generar con su equipo. Me dieron muchas ganas de seguir investigando y aprendiendo sobre biomateriales.*
