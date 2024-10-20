@@ -341,6 +341,26 @@
     Conceptos
   </a>
   
+    <nav class="md-nav" aria-label="Conceptos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#placa-esp" class="md-nav__link">
+    Placa ESP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mqtt" class="md-nav__link">
+    MQTT
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -600,6 +620,26 @@
     Conceptos
   </a>
   
+    <nav class="md-nav" aria-label="Conceptos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#placa-esp" class="md-nav__link">
+    Placa ESP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mqtt" class="md-nav__link">
+    MQTT
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -656,6 +696,57 @@ Los <em>Protocolos</em> son conjuntos de normas sobre formatos de mensajes y pro
 <li>Modularidad</li>
 <li>Interferencia</li>
 </ul>
+<p><strong>Redes por cable</strong>: la transmisión de información se realiza por uno o más cables. </p>
+<p><strong>Comunicación Asíncrona / Protocolo Serial o RX/TX</strong>: la información se envía a baja velocidad, ambos finales de comunicación tienen que usar la misma velocidad de transmisión.</p>
+<p><strong>Comunicación Síncrona / Protocolos I2C, SPI, LIN</strong>: se envía una señal de reloj que sincroniza ambas partes, permite una comunicación más rápida. Suelen tener una estructura  donde un &ldquo;maestro&rdquo; gestiona el resto de la red.</p>
+<p><strong>Comunicación en Paralelo</strong>: transmite muchos bits a la vez, en 8, 16 o más cables (se envían muchos datos con muchos cables). </p>
+<p><strong>Comunicación en Serie</strong>: se envían los datos con una señal de referencia, un bit a la vez, en serie. No suelen tener más de 4 cables.</p>
+<p><strong>Redes inalámbricas</strong>: la <em>frecuencia</em> de la onda utilizada para la comunicación es el factor más importante para su implantación y clasificación. 
+Dependiendo de la <em>frecuencia</em> y de la <em>potencia</em> de la señal tendremos más o menos penetración y con ello, más o menos alcance.</p>
+<p>Las <em>antenas</em> cambian cómo se radía la señal, pueden ser:</p>
+<ul>
+<li>Monopole, Dipole</li>
+<li>Helical</li>
+<li>Patch</li>
+</ul>
+<p><strong>Modulación</strong>: La codificación viene dada por cómo realizamos la modulación de una señal, lo que genera muchos tipos.</p>
+<p><strong>Protocolos de Redes inalámbricas</strong>: </p>
+<ul>
+<li>
+<p>Radiofrecuencia</p>
+<ul>
+<li>WiFi</li>
+<li>ZigBee</li>
+<li>Bluetooth, BLE</li>
+<li>RFID, NFC</li>
+</ul>
+</li>
+<li>
+<p>Óptico</p>
+<ul>
+<li>Infrarrojo</li>
+<li>LiFi</li>
+</ul>
+</li>
+<li>
+<p>Acústico</p>
+<ul>
+<li>AFSK</li>
+</ul>
+</li>
+</ul>
+<h3 id="placa-esp">Placa ESP<a class="headerlink" href="#placa-esp" title="Permanent link">&para;</a></h3>
+<p><strong><a href="https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/">Funciones útiles</a></strong></p>
+<p><img alt="" src="../images/MT06/esp32.jpg" /></p>
+<p><strong>Modo Estación</strong>: (STA) se utiliza para que el módulo ESP se conecte a una red Wi-Fi establecida por el punto de acceso.</p>
+<p><img alt="" src="../images/MT06/sta.jpg" /></p>
+<p><strong>Soft-AP</strong>: La placa <strong>ESP8266</strong> puede funcionar similar a un AP, excepto que no tiene interfaz a una red cableada.</p>
+<p><img alt="" src="../images/MT06/soft.jpg" /></p>
+<p>Otra aplicación es la creación de redes malladas, funcionando tanto en modo Soft-AP como en modo Estación.</p>
+<p><img alt="" src="../images/MT06/mallada.jpg" /></p>
+<h3 id="mqtt">MQTT<a class="headerlink" href="#mqtt" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../images/MT06/mqtt.jpg" /></p>
+<p>Es un <strong>protocolo</strong> que utiliza un modelo de <strong>publicación/suscripción</strong> </p>
 <h2 id="actividad-mt06">Actividad MT06<a class="headerlink" href="#actividad-mt06" title="Permanent link">&para;</a></h2>
 <p><strong>Objetivos:</strong></p>
 <ul>
