@@ -41,6 +41,7 @@ BIOMATERIALES = BIOLOGÍA + NATURALEZA + DISEÑO
 
 
 **Moldes y superficies de secado:**
+
 - Los moldes pueden ser de madera, plástico, metálicos, de acuerdo al biomaterial que estemos generando y la teminación deseada.
 - Tener en cuenta que los bioplásticos se adhieren a los materiales porosos, puede ser una ventaja según lo que queremos lograr.
 - Antes de comenzar verificaremos con un nivel que la superficie de trabajo esté nivelada, y ubicamos los moldes en la zona más plana para evitar que los líquidos se “escapen del molde” mientras se vierte la mezcla.
