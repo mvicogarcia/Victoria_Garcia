@@ -396,6 +396,20 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#proceso-de-mecanizado" class="md-nav__link">
+    Proceso de Mecanizado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#router-x-carve" class="md-nav__link">
+    Router X Carve
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -418,13 +432,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#visita-a-laba-durazno" class="md-nav__link">
-    Visita a LABA Durazno
-  </a>
   
 </li>
       
@@ -697,6 +704,20 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#proceso-de-mecanizado" class="md-nav__link">
+    Proceso de Mecanizado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#router-x-carve" class="md-nav__link">
+    Router X Carve
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -719,13 +740,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#visita-a-laba-durazno" class="md-nav__link">
-    Visita a LABA Durazno
-  </a>
   
 </li>
       
@@ -846,6 +860,60 @@ Se utilizan para hacer ranuras en &ldquo;U&rdquo; y operaciones de acabado super
 </li>
 </ul>
 <h3 id="diseno-de-piezas-para-ser-mecanizadas-en-router-cnc">Diseño de piezas para ser Mecanizadas en Router CNC<a class="headerlink" href="#diseno-de-piezas-para-ser-mecanizadas-en-router-cnc" title="Permanent link">&para;</a></h3>
+<p>A la hora de trabajar el material y diseñar nuestros modelos debemos tener en consideración algunos aspectos:</p>
+<ul>
+<li>Ubicación del material, de acuerdo a la capacidad de corte en cada eje y la pieza a realizar</li>
+<li>Distancia de sujetadores y área útil de trabajo. Todo material que se coloque en la mesa de trabajo del Router CNC, debe ser sujetado, ya sea con tornillos a la mesa o por medio de sujetadores. Estos dispositivos ocupan un espacio en la placa y hacen que ésta quede reducida en área de trabajo.</li>
+<li>Estrategia de Corte 2D, que nos va a dar 3 diferentes resultados de mecanizado de contornos. <ul>
+<li>Corte por fuera del vector</li>
+<li>Corte por sobre el vector</li>
+<li>Corte por dentro del vector</li>
+</ul>
+</li>
+<li>Tolerancias, sobre todo cuando queremos que las diferentes piezas cortadas puedan encastrarse de manera correcta. Cada material requiere de una tolerancia distinta, y no existe una regla exacta. </li>
+<li>
+<p><a href="https://www.fablabifurniture.org/50-digital-joints">Encastre</a>. Las fresas son herramientas circulares que al trabajar dejan un radio, debemos prever un espacio extra en el corte interno que permita ingresar la otra pieza , de manera tal que el encastre se produzca de forma exacta. Ejemplos:</p>
+<ul>
+<li>Encastre de ¨Hueso en T¨ </li>
+</ul>
+<p><img alt="" src="../images/MT08/huesoent.png" /></p>
+<ul>
+<li>Encastre de ¨Hueso en H¨ </li>
+</ul>
+<p><img alt="" src="../images/MT08/huesoenh.png" /></p>
+</li>
+<li>
+<p>Profundidad de Mecanizado: Siempre debemos corroborar que el largo de la herramienta que estamos utilizando sea mayor a la profundidad del diseño a mecanizar. </p>
+</li>
+<li>Altura de modelo: tener siempre en cuenta la dimensión máxima en el eje Z.</li>
+</ul>
+<h3 id="proceso-de-mecanizado">Proceso de Mecanizado<a class="headerlink" href="#proceso-de-mecanizado" title="Permanent link">&para;</a></h3>
+<p>Es aquel en el que a través de una serie de operaciones de torno, mediante la eliminación de viruta o abrasión conseguimos el moldeado de una pieza destinada a una función específica.</p>
+<p><strong>Principales estrategias de <a href="https://help.autodesk.com/view/fusion360/ESP/?guid=MFG-MILLING-OVERVIEW">Fusion 360</a> para mecanizado de un modelo en Router CNC de 3 ejes:</strong></p>
+<p>Estrategias 2D:</p>
+<ul>
+<li>Mecanizado de Cara</li>
+<li>Mecanizado de Contorno</li>
+<li>Mecanizado por Ranura</li>
+<li>Taladrado</li>
+</ul>
+<p>Estrategias 3D:</p>
+<ul>
+<li>Mecanizado de Relieve por Planos</li>
+<li>Mecanizado de Relieve en Paralelo</li>
+<li>Mecanizado de Relieve en Espiral</li>
+<li>Mecanizado por Relieve en Espiral Transformada</li>
+</ul>
+<p><strong><a href="https://help.autodesk.com/view/fusion360/ESP/?guid=GUID-BEC5DEA9-AC3E-4FA8-998E-4AE8CD0D0B1E">Módulo Fabricación FUSION360</a></strong></p>
+<h3 id="router-x-carve">Router X Carve<a class="headerlink" href="#router-x-carve" title="Permanent link">&para;</a></h3>
+<p>Es el router de los LabA de UTEC. </p>
+<p><img alt="" src="../../images/MT08/xcarve.png" /></p>
+<p>Dimensiones de trabajo (mesa de trabajo):</p>
+<ul>
+<li>Eje X 750 mm</li>
+<li>Eje Y 750 mm</li>
+<li>Eje Z 114 mm</li>
+</ul>
 <h2 id="actividad-mt08">Actividad MT08<a class="headerlink" href="#actividad-mt08" title="Permanent link">&para;</a></h2>
 <p><strong>Objetivos:</strong></p>
 <ul>
@@ -883,11 +951,7 @@ Se utilizan para hacer ranuras en &ldquo;U&rdquo; y operaciones de acabado super
 <p><strong>8</strong> Enviar la entrega al docente por mail.</p>
 <p><strong><a href="https://drive.google.com/file/d/1rUbhqTJvVMn94t-YtqGxQhRbtkZn1nPg/view?usp=sharing">Link de descarga</a></strong> </p>
 <h3 id="practica-fp03"><strong>Práctica FP03</strong><a class="headerlink" href="#practica-fp03" title="Permanent link">&para;</a></h3>
-<p><strong>Operación de Máquina y Medidas de Seguridad</strong></p>
-<p>La seguridad personal es una consideración muy importante al trabajar con un router CNC.</p>
-<p>Utiliza equipo de protección personal, como guantes y gafas de seguridad.</p>
-<h2 id="visita-a-laba-durazno">Visita a LABA Durazno<a class="headerlink" href="#visita-a-laba-durazno" title="Permanent link">&para;</a></h2>
-<p><em>La visita estaba planificada para el 24 de octubre, pero se suspendió por alerta meteorológica de tormentas fuertes para la zona.</em></p>
+<p>Visita a LABA Durazno: <em>La visita estaba planificada para el 24 de octubre, pero se suspendió por alerta meteorológica de tormentas fuertes para la zona.</em></p>
 <h2 id="reflexiones">Reflexiones<a class="headerlink" href="#reflexiones" title="Permanent link">&para;</a></h2>
 <p><em>Ya tenía algo de experiencia con cncs de pequeño formato (30x18cm). En este módulo pude acercarme al Fusion 360 como herramienta para generación de archivos de corte. Lo veo muy completo para realizar corte complejos y tallados 3D; yo suelo usar un programa muy sencillo que me resulta muy rápido para resolver cortes simples, que es lo que hago normalmente. Con esta introducción podré seguir investigando para generar piezas de mayor complejidad.</em></p>
                 
