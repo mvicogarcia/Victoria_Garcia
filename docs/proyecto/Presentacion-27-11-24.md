@@ -34,4 +34,12 @@ Lineamientos:
 **[Presentación](https://docs.google.com/presentation/d/1a736h0QH2O5K0M-QN5dt9mUO8XE_7ft97YC734lW-QA/edit?usp=sharing)**
 
 
+![](../images/pre/page1.jpg)
 
+![](../images/pre/page2.jpg)
+
+![](../images/pre/page3.jpg)
+
+![](../images/pre/page4.jpg)
+
+![](../images/pre/page5.jpg)
