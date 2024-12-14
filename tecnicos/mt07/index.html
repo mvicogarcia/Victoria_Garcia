@@ -751,9 +751,10 @@
 <li>En Herramientas elegimos la placa &ldquo;ESP32 Dev Module&rdquo; y el Puerto en el que conectamos (en mi caso COM3)</li>
 <li>En Archivo - Ejemplos - WiFi, elegimos la opción &ldquo;SimpleWiFiServer&rdquo;, cómo código base que editaremos para crear el servidor</li>
 <li>Editamos el ssid y password (líneas 30 y 31), con los datos de la red wifi a la que se conectará la placa ESP32</li>
-<li>Editamos el pin de salida donde tenemos conectado el LED (línea 37), en mi caso es el pin 32</li>
-<li>Editamos la ubicación del LED en el texto ilustrativo (líneas 85 y 86) y en el digitalWrite (líneas 101 y 104)</li>
-<li>Damos click en verificar para compilar el proyecto y luego en cargar para cargarlo en la placa</li>
+<li>Editamos el pin de salida donde tenemos conectado el LED (línea 38), en mi caso es el pin 5</li>
+<li>Editamos la ubicación del LED en el texto ilustrativo (líneas 85 y 86) y en el digitalWrite (líneas 128 y 132)</li>
+<li>Editamos el pin de entrada donde tenemos conectado el potenciómetro (línea 108), en mi caso es el pin 18
+Damos click en verificar para compilar el proyecto y luego en cargar para cargarlo en la placa</li>
 <li>Luego de que el código se carga en la placa, abrir el monitor serie para ver los mensajes. Verificar que la velocidad de transferencia de datoa de la placa está a 115200 baud en el monitor serie. Si no aparecen mensajes, reiniciamos la placa desde el botón EN.</li>
 <li>En el Monitor Serie veremos un mensaje mostrando que la placa se conectó al wifi que definimos en el código.</li>
 <li>Copiar la dirección IP que nos muestra el Monitor Serie, en mi caso: 192.168.1.8. Abrimos esta IP en un navegador web y podemos controlar el LED desde cualquier dipositivo.</li>
