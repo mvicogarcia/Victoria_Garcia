@@ -50,15 +50,15 @@ El conector funciona para diferentes espesores de placa (mínimo 12mm).
 
 *Modelo 3D del conector, en la segunda imagen se ven las dos piezas separadas.*
 
-![](../images/proy/con2.jpg)
+![](../images/proy/con2.png)
 
 *Corte del modelo, uniendo dos placas de 12 y 18mm.*
 
-![](../images/proy/con3.jpg)
+![](../images/proy/con3.png)
 
 *Medidas de las piezas.*
 
-![](../images/proy/con4.jpg)
+![](../images/proy/con4.png)
 
 *Vista del modelo, donde se ven las perforaciones para el pasaje del tornillo, y fresado para la cabeza. Estas perforaciones se hacen con taladro luego de desmoldadas las piezas."
 
