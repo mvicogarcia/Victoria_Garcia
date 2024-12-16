@@ -68,33 +68,32 @@ El conector funciona para diferentes espesores de placa (mínimo 12mm).
 
 ## Diseño del Molde
 
-Siguiendo la idea de reutilizar materiales y que los moldes se puedan hacer con materiales accesibles, diseñé los moldes para ser cortados en mdf de 18mm, mcon router CNC.
+Siguiendo la idea de reutilizar materiales y que los moldes se puedan hacer con materiales accesibles, diseñé los moldes para ser cortados en mdf con router CNC.
 
 Son dos moldes, uno para cada pieza, que siguen la misma lógica: 
 
 ![](../images/proy/esqmolde4.png)
 
-- Se componen de dos partes que van atornilladas a la base (tapa inferior), y una tapa con tarugos que funcionan como guías de encastre.
+- Se componen de dos partes que van atornilladas a la base (tapa 2 o inferior), y una tapa (tapa 1 o superior) con tarugos que funcionan como guías de encastre.
 
 ![](../images/proy/esqmolde.png)
 
-- Los dos bloques que forman las caras del bloque se generan con 3 piezas de mdf de 18mm, que suman una altura de 54mm. En mi prueba encolé estas piezas pero podrían ir atornilladas entre si.
+- Los dos bloques que forman las caras del molde (A y B) se generan con 3 piezas de mdf de 18mm, que suman una altura de 54mm. En mi prueba encolé estas piezas pero podrían ir atornilladas entre si.
 
 ![](../images/proy/esqmolde2.png)
 
 - En las tapas inferior y superior se adhiere una pieza de 6mm de espesor para lograr una altura interior de 42mm. Esta pieza es un poco más pequeña que la silueta del diseño, para que el cierre no sea tan apretado.
 - No preví un escape de material porque no es un molde para inyección.
 - Las dimensiones del molde las pensé teniendo en cuenta la retracción del plástico una vez frío (calculé un 5%).
-- Luego de probar hacer la primera pieza, vi que la presión de al prensar hacía que el molde se abriera un poco, por eso agregué una conteción exterior de madera.
+
 
 ![](../images/proy/esqmolde3.png)
-
-
 
 
 [Archivos vectoriales para descargar](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)
 
 [Archivos de corte para descargar](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)
+
 *Nota: Los archivos de corte están armados para fresa de 2mm de diámetro*.
 
 [Instrucciones para armar los moldes](https://drive.google.com/file/d/1rICdAamgpiDT0fOWu7ucVrmlH7wkE7XY/view?usp=drive_link)
@@ -102,8 +101,24 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ## Prototipo y pruebas
 
+### Armado del molde
 
+- Generé los archivos de corte para CNC en base a los diseños vectoriales.
+- Hice los cortes en un cnc de 80x80 con fresa de 2mm de diámetro, sobre mdf de 18mm y multiplaca de 6mm.
 
+- Luego lijé las piezas cortadas para armar las diferentes partes de los moldes. Las dejé prensadas secando de un día para otro. Luego de secas, les di un lijado manual para emparejar la superficie.
+
+- Encolé las piezas y coloqué los tarugo (guías de encastre).
+
+- Atornillé las diferentes partes del molde.
+
+- Luego de la primera prueba con el plástico, hice algunas modificaciones: 
+    - Coloqué lámina de teflón adhesiva en los lugares más propensos a que se pegue el plástico, que fueron en las aristas más cerradas.
+    - Vi que la presión de la prensa hacía que el molde se abriera un poco, por eso agregué una contención exterior de madera. 
+
+### Prueba con plástico reciclado
+
+### Armado del conector
 
 
 ## Evaluación y próximos pasos
