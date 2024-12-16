@@ -60,16 +60,48 @@ El conector funciona para diferentes espesores de placa (mínimo 12mm).
 
 ![](../images/proy/con4.png)
 
-*Vista del modelo, donde se ven las perforaciones para el pasaje del tornillo, y fresado para la cabeza. Estas perforaciones se hacen con taladro luego de desmoldadas las piezas."
+*Vista del modelo, donde se ven las perforaciones para el pasaje del tornillo, y fresado para la cabeza. Estas perforaciones se hacen con taladro luego de desmoldadas las piezas.*
 
-[Archivo Sketchup para descargar](https://drive.google.com/file/d/1_ErjLMD-E-XXQpQrF93tBzpMjBmFZzFE/view?usp=drive_link)
+[Modelo Sketchup para descargar](https://drive.google.com/file/d/1_ErjLMD-E-XXQpQrF93tBzpMjBmFZzFE/view?usp=drive_link)
+
 
 
 ## Diseño del Molde
 
+Siguiendo la idea de reutilizar materiales y que los moldes se puedan hacer con materiales accesibles, diseñé los moldes para ser cortados en mdf de 18mm, mcon router CNC.
+
+Son dos moldes, uno para cada pieza, que siguen la misma lógica: 
+
+![](../images/proy/esqmolde4.png)
+
+- Se componen de dos partes que van atornilladas a la base (tapa inferior), y una tapa con tarugos que funcionan como guías de encastre.
+
+![](../images/proy/esqmolde.png)
+
+- Los dos bloques que forman las caras del bloque se generan con 3 piezas de mdf de 18mm, que suman una altura de 54mm. En mi prueba encolé estas piezas pero podrían ir atornilladas entre si.
+
+![](../images/proy/esqmolde2.png)
+
+- En las tapas inferior y superior se adhiere una pieza de 6mm de espesor para lograr una altura interior de 42mm. Esta pieza es un poco más pequeña que la silueta del diseño, para que el cierre no sea tan apretado.
+- No preví un escape de material porque no es un molde para inyección.
+- Las dimensiones del molde las pensé teniendo en cuenta la retracción del plástico una vez frío (calculé un 5%).
+- Luego de probar hacer la primera pieza, vi que la presión de al prensar hacía que el molde se abriera un poco, por eso agregué una conteción exterior de madera.
+
+![](../images/proy/esqmolde3.png)
+
+
+
+
+[Archivos vectoriales para descargar](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)
+
+[Archivos de corte para descargar](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)
+*Nota: Los archivos de corte están armados para fresa de 2mm de diámetro*.
+
+[Instrucciones para armar los moldes](https://drive.google.com/file/d/1rICdAamgpiDT0fOWu7ucVrmlH7wkE7XY/view?usp=drive_link)
 
 
 ## Prototipo y pruebas
+
 
 
 
