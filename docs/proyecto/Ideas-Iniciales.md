@@ -9,13 +9,12 @@ hide:
 A través de los Módulos de Diseño e Innovación, fui explorando diferentes temas y conceptos.
 
 
-En el Módulo **[MD01 Proyecto y Contexto](https://mvicogarcia.github.io/Victoria_Garcia/diseno/md01/)**, con la propuesta de **[Atlas of Weak Signals](https://fablabbcn.org/blog/emergent-ideas/atlas-of-weak-signals), investigué y leí sobre las temáticas que me fueron surgiendo en torno a las cartas y generando relaciones, conectando a través de mis intereses personalas y proyecto que ya venía trabajando.
+En el Módulo **[MD01 Proyecto y Contexto](https://mvicogarcia.github.io/Victoria_Garcia/diseno/md01/)**, con la propuesta de **[Atlas of Weak Signals](https://fablabbcn.org/blog/emergent-ideas/atlas-of-weak-signals)**, investigué y leí sobre las temáticas que me fueron surgiendo en torno a las cartas y generando conexiones con mis intereses personalas y proyecto que ya venía trabajando.
 
 
 Así surgieron algunas ideas de proyecto:
 
-
-
+![](../images/proy/ideasinic.png)
 
 
 De éstas ideas decidí seguir adelante con: *Equipamiento DIY para espacios públicos/ comunitarios con materiales de descarte*.
@@ -37,7 +36,7 @@ Me planteo **preguntas disparadoras:**
 - Podemos aprender a valorar los recursos aprendiendo cómo funcionan los materiales?
 
 
-*YO CREO QUE SI*
+**Yo creo que si.**
 
 
 
