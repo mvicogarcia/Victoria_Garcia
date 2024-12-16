@@ -25,6 +25,7 @@ Les hice una entrevista para recabar información:
 De estas entrevistas pude extraer algunos lineamientos de cómo seguir:
 
 **Desafíos**
+
 - Generar cultura de consumo consciente / responsable.
 - Dificultad para introducir innovación en materiales.
 - Tiempos de implementación / armado de los diseños.
@@ -32,6 +33,7 @@ De estas entrevistas pude extraer algunos lineamientos de cómo seguir:
 
 
 **Oportunidades**
+
 - Introducir materiales reutilizados/reciclados.
 - Diseño de kit que forme parte del proceso de codiseño.
 - Sistema / Elementos seriados que permitan simplificar la reutilización de materiales.
