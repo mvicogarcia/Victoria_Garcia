@@ -50,24 +50,7 @@ Luego de las reuniones con Agustina, Noelia y Matías, y teniendo en cuenta lo q
 - Generar proyectos sostenibles 
 - Ser responsables del cuidado de lo construído
 
-**Decisiones**
 
-**Reúso**: Trabajar en base a placas de maderas de descarte de diferentes formatos y espesores, especialmente placas tipo compensado en base a resinas que no se deberían quemar (para evitar generar gases tóxicos).
-Las piezas diseñadas y fabricadas no serán de un solo uso.
-
-
-**Reciclaje**: incorporar plástico reciclado (PEAD y PP).
-
-
-**Abierto**: Diseño de moldes que sean fácilmente replicables y que se puedan realizar con materiales reutilizados o económicos.
-El proceso de diseño y los resultados serán accesibles desde mi web de EFDI, incluyendo 
-un manual para replicar la fabricación.
-
-
-**Comunitario**: el proyecto se enfoca en brindar un insumo para la fabricación colectiva.
-
-
-*Más que un resultado cerrado, quiero generar un punto de inicio, un excusa para activar procesos.*
 
 
 ## Referencias:
