@@ -46,7 +46,7 @@ Son 2 piezas que se unen a través de tornillo (tipo bulón) y tuerca con arande
 Permiten unir en ángulo de 90° dos placas de madera del mismo espesor.
 El conector funciona para diferentes espesores de placa (mínimo 12mm).
 
-![](../images/proy/con1.jpg)
+![](../images/proy/con1.png)
 
 *Modelo 3D del conector, en la segunda imagen se ven las dos piezas separadas.*
 
