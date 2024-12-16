@@ -8,7 +8,9 @@ hide:
 ## Propuesta de Valor
 
 Acercar a las personas al uso de herramientas de fabricación y generar apropiación de espacios comunitarios a través del armado colectivo de equipamiento con materiales reutilizados y reciclados.
+
 Generar y compartir conocimiento sobre los materiales que usamos y su ciclo de vida. 
+
 Ser activistas del cuidado.
 
 El enfoque del proyecto es el diseño de sistema de conectores para armado de equipamiento efímero, pensado para el uso de colectivos de vecinxs, grupos, educadores, diseñadores, etc.
@@ -31,11 +33,36 @@ El proceso de diseño y los resultados serán accesibles desde mi web de EFDI.
 *Más que un resultado cerrado, quiero generar un punto de inicio, un excusa para activar procesos.*
 
 
-![](../images/proy/01.png)
+![](../images/proy/01.jpg)
 
 
 ## Diseño del Conector
 
+El diseño se basa en el funcionamiento de las prensas de carpintero:
+
+![](../images/proy/carpi.jpg)
+
+Son 2 piezas que se unen a través de tornillo (tipo bulón) y tuerca con arandela ó tipo mariposa.
+Permiten unir en ángulo de 90° dos placas de madera del mismo espesor.
+El conector funciona para diferentes espesores de placa (mínimo 12mm).
+
+![](../images/proy/con1.jpg)
+
+*Modelo 3D del conector, en la segunda imagen se ven las dos piezas separadas.*
+
+![](../images/proy/con2.jpg)
+
+*Corte del modelo, uniendo dos placas de 12 y 18mm.*
+
+![](../images/proy/con3.jpg)
+
+*Medidas de las piezas.*
+
+![](../images/proy/con4.jpg)
+
+*Vista del modelo, donde se ven las perforaciones para el pasaje del tornillo, y fresado para la cabeza. Estas perforaciones se hacen con taladro luego de desmoldadas las piezas."
+
+[Archivo Sketchup para descargar](https://drive.google.com/file/d/1_ErjLMD-E-XXQpQrF93tBzpMjBmFZzFE/view?usp=drive_link)
 
 
 ## Diseño del Molde
@@ -43,6 +70,7 @@ El proceso de diseño y los resultados serán accesibles desde mi web de EFDI.
 
 
 ## Prototipo y pruebas
+
 
 
 
