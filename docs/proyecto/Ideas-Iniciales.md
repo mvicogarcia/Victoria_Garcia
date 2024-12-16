@@ -14,7 +14,7 @@ En el Módulo **[MD01 Proyecto y Contexto](https://mvicogarcia.github.io/Victori
 
 Así surgieron algunas ideas de proyecto:
 
-![](../images/proy/ideasinic.png)
+![](../images/proy/ideasinic.jpg)
 
 
 De éstas ideas decidí seguir adelante con: *Equipamiento DIY para espacios públicos/ comunitarios con materiales de descarte*.
