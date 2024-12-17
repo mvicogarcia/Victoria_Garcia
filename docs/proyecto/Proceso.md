@@ -97,7 +97,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 [Archivos de corte para cnc para descargar](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)
 
-*Nota: Los archivos de corte para cnc están armados para fresa de 2mm de diámetro*.
+*Nota: Los archivos de corte para cnc están armados para fresa de 3,175 mm de diámetro*.
 
 
 

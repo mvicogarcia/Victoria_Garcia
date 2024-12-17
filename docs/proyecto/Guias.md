@@ -12,6 +12,8 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 **[Descargar archivos de corte para cnc](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)**
 
+*Nota: Los archivos de corte para cnc están armados para fresa de 3,175 mm de diámetro*.
+
 
 
 ![](../images/proy/omarcito.png)
