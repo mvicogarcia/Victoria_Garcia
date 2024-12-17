@@ -101,6 +101,9 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ## Prototipo y pruebas
 
+![](../images/proy/proc4.png)
+
+
 ### Armado del molde
 
 **Materiales y herramientas utilizados:**
@@ -168,17 +171,36 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 
 - Calculé la cantidad de plástico de acuerdo a la densidad, me dió aprox. 40 g para la pieza pqueña y 80 g para la grande. Luego de las pruebas lo ajusté a 34g y 72g respectivamente.
 - Preparé el molde rociándolo con silicona en spray.
+
+![](../images/proy/proc5.png)
+
 - Pesé la cantidad de plástico (tapitas) a utilizar en la balanza.
 - Prendí la prensa sublimadora a 180°C y 10min.
 - Coloqué las tapitas en la sublimadora entre dos láminas de teflón. 
-- Luego de pasados los 10 min, saqué el plástico que en esta instancia es una masa caliente. Lo manipulé con los guantes.
-- Con la ayuda de un destornillador (tipo paleta) y los guantes, lo coloqué dentro del molde y le puse la tapa, usando los tarugos como guía.
+- Luego de pasados los 10 min, dí vuelta el plástico entre las dos láminas de teflón y lo dejé por 5 min más.
+
+![](../images/proy/proc6.png)
+
+- Saqué el plástico de la prensa manipulándolo con los guantes. En esta instancia es una masa caliente moldeable. 
+- Le di forma cilíndrica, y con la ayuda de un destornillador (tipo paleta) y los guantes, lo coloqué dentro del molde y le puse la tapa, usando los tarugos como guía.
+
+![](../images/proy/proc7.png)
+
 - Puse el molde en la prensa y prensé hasta que sentí que me oponía mucha resistencia y la tapa estaba totalmente cerrada.
+
+![](../images/proy/proc8.png)
+
 - Pasados 30 minutos liberé la prensa y desmoldé la pieza.
 
-![](../images/proy/proc4.png)
+![](../images/proy/proc9.png)
 
 - El resultado de la superficie fue más rugoso de lo que esperaba. En la segunda prueba subí la temperatura de la prensa a 190°C y obtuve mejores resultados de terminación.
+
+![](../images/proy/proc9.png)
+
+![](../images/proy/proc10.png)
+
+*Pieza desmoldada / Prueba a 180°C y a 190°C.*
 
 
 ### Armado del conector
@@ -186,7 +208,7 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 **Materiales y herramientas utilizados:**
 
 - Tricheta
-- Taladro de banco + mechas para metal de 6 y 12mm de diémtro
+- Taladro de banco + mechas para metal de 6, 8 y 12mm de diémtro
 - Morsa 
 - Calibre
 - Tornillos tipo bulón con cabeza hexagonal de 6mm de diámetro x 80mm de largo, con tuerca y arandela
@@ -194,5 +216,25 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 
 **Procedimiento:**
 
+- Retiré la rebaba con trincheta.
+
+![](../images/proy/proc11.png)
+
+- Luego hice las perforaciones para el pasaje del tornillo en taladro de banco, con mecha de 6mm. Sostuve la pieza con una morsa.
+
+![](../images/proy/proc12.png)
+
+En la primera prueba, la perforación quedó torcida, por lo que al probar el conector, no se generó el ángulo de 90° que buscaba.
+Esto lo pude solucionar parcialmente agrandando la perforación en la pieza pequeña a un diámetro de 8mm.
+
+- En la segunda prueba, di vuelta la pieza en la morza para hacer la perforación, lo que me dió menos margen de error. 
+De todas formas, al ser un proceso manual y las piezas nos er exactas, es necesario hacer una perforación de 8mm en la pieza pequeña para lograr la conexión de 90°.
+
+![](../images/proy/proc13.png)
+
+*Posición correcta para perforar / "Fresado" para la cabeza del tornillo / Armado y comprobación de ángulo / Primera prueba de pieza armada con 2 conectores.*
+
 
 ## Evaluación y próximos pasos
+
+![](../images/proy/proc14.png)
