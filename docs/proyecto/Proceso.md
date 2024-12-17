@@ -174,7 +174,7 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 - Luego de pasados los 10 min, saqué el plástico que en esta instancia es una masa caliente. Lo manipulé con los guantes.
 - Con la ayuda de un destornillador (tipo paleta) y los guantes, lo coloqué dentro del molde y le puse la tapa, usando los tarugos como guía.
 - Puse el molde en la prensa y prensé hasta que sentí que me oponía mucha resistencia y la tapa estaba totalmente cerrada.
-- Pasados 30 minutos liberé la prensa y demoldé la pieza.
+- Pasados 30 minutos liberé la prensa y desmoldé la pieza.
 
 ![](../images/proy/proc4.png)
 
