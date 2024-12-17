@@ -20,7 +20,7 @@ El enfoque del proyecto es el diseño de sistema de conectores para armado de eq
 
 **Reúso**: Trabajar en base a placas de maderas de descarte de diferentes formatos y espesores, especialmente placas tipo compensado en base a resinas que no se deberían quemar (para evitar generar gases tóxicos). Las piezas diseñadas y fabricadas serán de gran resistencia y con una extensa vida útil.
 
-**Reciclaje**: incorporar plástico reciclado. Fomentar el uso de polietileno. Elijo usar un solo tipo de plástico para garantizar que se genere un objeto reciclable, y que sea polietileno (de alta densidad o N°2 y de baja densidad o N°4), porque es fácilmente identificable (tapitas, envases, bolsas), y tiene un rango amplio de temperatura en el que se puede trabajar sin que generen emisiones dañinas para la salud o el ambiente.
+**Reciclaje**: incorporar plástico reciclado, especificamente plástico de un solo uso. 
 
 **Abierto y accesible**: Diseño de moldes que sean fácilmente replicables y que se puedan realizar con materiales reutilizados o económicos.
 El proceso de diseño y los resultados serán accesibles desde mi web de EFDI.
@@ -103,6 +103,19 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ### Armado del molde
 
+Materiales y herramientas utilizados:
+
+- Recortes de mdf de 18mm
+- Recortes de multiplaca de 6mm
+- Router CNC con fresa de 2mm de diámetro
+- Cola de carpintería
+- Prensas (tipo pinza, G y morsa)
+- Tarugos de madera de 8mm de diámetro
+- Atornilladora eléctrica
+- Tornillos para madera (aprox. 4cm de largo)
+
+Procedimiento:
+
 - Generé los archivos de corte para CNC en base a los diseños vectoriales.
 - Hice los cortes en un cnc de 80x80 con fresa de 2mm de diámetro, sobre mdf de 18mm y multiplaca de 6mm.
 
@@ -116,7 +129,40 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
     - Coloqué lámina de teflón adhesiva en los lugares más propensos a que se pegue el plástico, que fueron en las aristas más cerradas.
     - Vi que la presión de la prensa hacía que el molde se abriera un poco, por eso agregué una contención exterior de madera. 
 
+
 ### Prueba con plástico reciclado
+
+Materiales y herramientas utilizados:
+
+- Tapitas de PEAD 
+- Los moldes armados en el paso anterior
+- Prensa eléctrica sublimadora (también se puede utilizar horno eléctrico, pero no es recomendable luego usarlo para comida)
+- Láminas de teflón (como antiadherente para la prensa)
+- Prensa hidraúlica manual de 12 Toneladas 
+- Tricheta
+- Lámina de teflón adhesivo
+- Destornilladores
+- Espátula
+- Silicona en spray (como desmoldante)
+- Taladro de banco + mechas para metal de 6 y 12mm de diémtro
+- Morsa 
+- Calibre
+- Balanza
+- Tornillos tipo bulón con cabeza hexagonal de 6mm de diámetro x 80mm de largo, con tuerca y arandela
+- Dado hexagonal de la misma medida que el tornillo anterior
+
+
+Para las pruebas Utilicé polietileno de alta densidad (proveniente de tapitas, plástico de un solo uso). Se  clasifica con el N°2 y suele estar marcado con este número dentro de un triángulo de flechas, con las siglas PEAD o HDPE.
+
+![](../images/proy/pead.jpg)
+
+Elegí usar un solo tipo de plástico para garantizar que se genere un objeto reciclable. 
+El polietileno de alta densidad se consigue y se identifica fácilmente, hay disponibilidad de colores, y tiene un rango amplio de temperatura en el que se puede trabajar sin que se generen emisiones dañinas para la salud o el ambiente (entre los 140 y 220 °C aprox.).
+
+![](../images/proy/tapitas.jpg)
+
+Para hacer la prueba utilicé:
+- 
 
 ### Armado del conector
 
