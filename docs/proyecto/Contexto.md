@@ -39,7 +39,7 @@ De estas entrevistas pude extraer algunos lineamientos de cómo seguir:
 - Sistema / Elementos seriados que permitan simplificar la reutilización de materiales.
 
 
-Luego de las reuniones con Agustina, Noelia y Matías, y teniendo en cuenta lo que venía trabajando en los módulos de Diseño e Innovación y mi propia experiencia, me propuse:
+Luego del intercambio con Agustina, Noelia y Matías, y teniendo en cuenta lo que venía trabajando en los módulos de Diseño e Innovación y mi propia experiencia, me propuse estos
 
 **Objetivos**
 

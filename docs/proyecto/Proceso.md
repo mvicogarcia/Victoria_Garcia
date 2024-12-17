@@ -18,7 +18,7 @@ El enfoque del proyecto es el diseño de un sistema de conectores reciclados y r
 
 ## Lineamientos para el diseño
 
-**Reúso**: Trabajar en base a placas de maderas de descarte de diferentes formatos y espesores, especialmente placas tipo compensado en base a resinas que no se deberían quemar (para evitar generar gases tóxicos). Las piezas diseñadas y fabricadas serán de gran resistencia y con una extensa vida útil.
+**Reúso**: Trabajar en base a placas de madera de descarte de diferentes formatos y espesores, especialmente placas tipo compensado en base a resinas que no se deberían quemar (porque generan gases tóxicos). Las piezas diseñadas y fabricadas serán de gran resistencia y con una extensa vida útil.
 
 **Reciclaje**: incorporar plástico reciclado, especificamente plástico de un solo uso. 
 
@@ -42,7 +42,7 @@ El diseño se basa en el funcionamiento de las prensas de carpintero:
 
 ![](../images/proy/carpi.jpg)
 
-Son 2 piezas que se unen a través de tornillo (tipo bulón) y tuerca con arandela ó tipo mariposa.
+Son 2 piezas que se unen a través de tornillo (tipo bulón) y tuerca con arandela ó tuerca mariposa.
 Permiten unir en ángulo de 90° dos placas de madera del mismo espesor.
 El conector funciona para diferentes espesores de placa (mínimo 12mm).
 
@@ -74,7 +74,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ![](../images/proy/esqmolde4.png)
 
-- Se componen de dos partes que van atornilladas a la base (tapa 2 o inferior), y una tapa (tapa 1 o superior) con tarugos que funcionan como guías de encastre.
+- Se componen de dos partes que van atornilladas a la base (tapa 2 o inferior), y una tapa (tapa 1 o superior) con tarugos de madera (tm) que funcionan como guías de encastre.
 
 ![](../images/proy/esqmolde.png)
 
@@ -92,9 +92,9 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 [Archivos vectoriales para descargar](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)
 
-[Archivos de corte para descargar](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)
+[Archivos de corte para cnc para descargar](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)
 
-*Nota: Los archivos de corte están armados para fresa de 2mm de diámetro*.
+*Nota: Los archivos de corte para cnc están armados para fresa de 2mm de diámetro*.
 
 [Instrucciones para armar los moldes](https://drive.google.com/file/d/1rICdAamgpiDT0fOWu7ucVrmlH7wkE7XY/view?usp=drive_link)
 
@@ -116,6 +116,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 - Tarugos de madera de 8mm de diámetro
 - Atornilladora eléctrica
 - Tornillos para madera (aprox. 4cm de largo)
+- Lámina de teflón adhesivo
 
 **Procedimiento:**
 
@@ -124,8 +125,9 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ![](../images/proy/cnc.gif)
 
-- Luego lijé las piezas cortadas para armar las diferentes partes de los moldes. Las dejé prensadas secando de un día para otro. Luego de secas, les di un lijado manual para emparejar la superficie.
-- Encolé las piezas y coloqué los tarugo (guías de encastre).
+- Luego lijé las piezas cortadas para armar las diferentes partes de los moldes. 
+
+- Encolé las piezas y coloqué los tarugo (guías de encastre). Las dejé prensadas secando de un día para otro. Luego de secas, les di un lijado manual para emparejar la superficie.
 
 ![](../images/proy/proc1.png)
 
@@ -148,10 +150,9 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 - Los moldes armados en el paso anterior
 - Prensa eléctrica sublimadora (también se puede utilizar horno eléctrico, pero no es recomendable luego usarlo para comida)
 - Láminas de teflón (como antiadherente para la prensa)
-- Guantes de silicona forrados (para alta temperatura).
+- Guantes de silicona forrados (para alta temperatura)
 - Prensa hidraúlica manual de 12 Toneladas 
 - Trincheta
-- Lámina de teflón adhesivo
 - Destornilladores
 - Espátula
 - Silicona en spray (como desmoldante)
@@ -162,6 +163,7 @@ Para las pruebas Utilicé polietileno de alta densidad (proveniente de tapitas, 
 ![](../images/proy/pead.png)
 
 Elegí usar un solo tipo de plástico para garantizar que se genere un objeto reciclable. 
+
 El polietileno de alta densidad se consigue y se identifica fácilmente, hay disponibilidad de colores, y tiene un rango amplio de temperatura en el que se puede trabajar sin que se generen emisiones dañinas para la salud o el ambiente (entre los 140 y 220 °C aprox.).
 
 ![](../images/proy/tapitas.jpg)
@@ -169,7 +171,7 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 
 **Procedimiento:**
 
-- Calculé la cantidad de plástico de acuerdo a la densidad, me dió aprox. 40 g para la pieza pqueña y 80 g para la grande. Luego de las pruebas lo ajusté a 34g y 72g respectivamente.
+- Calculé la cantidad de plástico de acuerdo a la densidad, me dió aprox. 40 g para la pieza pequeña y 80 g para la grande. Luego de las pruebas lo ajusté a 34 g y 72 g respectivamente.
 - Preparé el molde rociándolo con silicona en spray.
 
 ![](../images/proy/proc5.png)
@@ -177,7 +179,7 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 - Pesé la cantidad de plástico (tapitas) a utilizar en la balanza.
 - Prendí la prensa sublimadora a 180°C y 10min.
 - Coloqué las tapitas en la sublimadora entre dos láminas de teflón. 
-- Luego de pasados los 10 min, dí vuelta el plástico entre las dos láminas de teflón y lo dejé por 5 min más.
+- Luego de pasados los 10 min, dí vuelta el plástico (contenido entre las dos láminas de teflón) y lo dejé por 5 min más.
 
 ![](../images/proy/proc6.png)
 
