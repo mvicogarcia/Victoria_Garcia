@@ -6,7 +6,7 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 ![](../images/proy/moldecito.jpg)
 
-**[Cómo hacer los moldes]()**
+**[Cómo hacer los moldes](https://drive.google.com/file/d/1z6I91ZWsltIJ4ywpQn7EMh54YxlmM53z/view?usp=drive_link)**
 
 **[Descargar archivos vectoriales moldes](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)**
 
