@@ -256,7 +256,7 @@ Las rebabas y virutas que se generan durante el proceso se pueden volver a recic
 
 Para fabricar 1 conector se usan aprox. 60 tapitas.
 
-![](../images/proy/60.jpg)
+![](../images/proy/60.png)
 
 
 **Identifiqué algunas mejoras a hacer para una siguiente versión:**
