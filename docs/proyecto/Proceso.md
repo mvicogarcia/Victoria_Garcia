@@ -116,6 +116,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 - Cola de carpintería
 - Prensas (tipo pinza, G y morsa)
 - Tarugos de madera de 8mm de diámetro
+- Sierrita
 - Atornilladora eléctrica
 - Tornillos para madera (aprox. 4cm de largo)
 - Lámina de teflón adhesivo
