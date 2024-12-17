@@ -99,7 +99,6 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 *Nota: Los archivos de corte para cnc están armados para fresa de 2mm de diámetro*.
 
-[Instrucciones para armar los moldes](https://drive.google.com/file/d/1rICdAamgpiDT0fOWu7ucVrmlH7wkE7XY/view?usp=drive_link)
 
 
 ## Prototipo y pruebas
