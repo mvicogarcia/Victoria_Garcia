@@ -14,7 +14,7 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 
 
-![](../images/proy/omarcito.jpg)
+![](../images/proy/omarcito.png)
 
 **[Cómo fabricar los conectores]()**
 
