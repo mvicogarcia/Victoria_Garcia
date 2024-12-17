@@ -46,6 +46,9 @@ Son 2 piezas que se unen a través de tornillo (tipo bulón) y tuerca con arande
 Permiten unir en ángulo de 90° dos placas de madera del mismo espesor.
 El conector funciona para diferentes espesores de placa (mínimo 12mm).
 
+El diseño macizo de las piezas no responde a una exigencia estructural, sino a que se puedan fabricar con moldes y procedimientos sencillos, y puedan consumir la mayor cantidad posible de plástico de un sólo uso.
+
+
 ![](../images/proy/con1.png)
 
 *Modelo 3D del conector, en la segunda imagen se ven las dos piezas separadas.*
@@ -129,17 +132,17 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 - Encolé las piezas y coloqué los tarugo (guías de encastre). Las dejé prensadas secando de un día para otro. Luego de secas, les di un lijado manual para emparejar la superficie.
 
-![](../images/proy/proc1.png)
+![](../images/proy/proc1.jpg)
 
 - Atornillé las diferentes partes del molde.
 
-![](../images/proy/proc2.png)
+![](../images/proy/proc2.jpg)
 
 - Luego de la primera prueba con el plástico, hice algunas modificaciones: 
     - Coloqué lámina de teflón adhesiva en los lugares más propensos a que se pegue el plástico, que fueron en las aristas más cerradas.
     - Vi que la presión de la prensa hacía que el molde se abriera un poco, por eso agregué una contención exterior de madera. 
 
-![](../images/proy/proc3.png)
+![](../images/proy/proc3.jpg)
 
 
 ### Pruebas con plástico reciclado
@@ -174,33 +177,33 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 - Calculé la cantidad de plástico de acuerdo a la densidad, me dió aprox. 40 g para la pieza pequeña y 80 g para la grande. Luego de las pruebas lo ajusté a 34 g y 72 g respectivamente.
 - Preparé el molde rociándolo con silicona en spray.
 
-![](../images/proy/proc5.png)
+![](../images/proy/proc5.jpg)
 
 - Pesé la cantidad de plástico (tapitas) a utilizar en la balanza.
 - Prendí la prensa sublimadora a 180°C y 10min.
 - Coloqué las tapitas en la sublimadora entre dos láminas de teflón. 
 - Luego de pasados los 10 min, dí vuelta el plástico (contenido entre las dos láminas de teflón) y lo dejé por 5 min más.
 
-![](../images/proy/proc6.png)
+![](../images/proy/proc6.jpg)
 
 - Saqué el plástico de la prensa manipulándolo con los guantes. En esta instancia es una masa caliente moldeable. 
 - Le di forma cilíndrica, y con la ayuda de un destornillador (tipo paleta) y los guantes, lo coloqué dentro del molde y le puse la tapa, usando los tarugos como guía.
 
-![](../images/proy/proc7.png)
+![](../images/proy/proc7.jpg)
 
 - Puse el molde en la prensa y prensé hasta que sentí que me oponía mucha resistencia y la tapa estaba totalmente cerrada.
 
-![](../images/proy/proc8.png)
+![](../images/proy/proc8.jpg)
 
 - Pasados 30 minutos liberé la prensa y desmoldé la pieza.
 
-![](../images/proy/proc9.png)
+![](../images/proy/proc9.jpg)
 
 - El resultado de la superficie fue más rugoso de lo que esperaba. En la segunda prueba subí la temperatura de la prensa a 190°C y obtuve mejores resultados de terminación.
 
-![](../images/proy/proc9.png)
+![](../images/proy/proc9.jpg)
 
-![](../images/proy/proc10.png)
+![](../images/proy/proc10.jpg)
 
 *Pieza desmoldada / Prueba a 180°C y a 190°C.*
 
@@ -214,42 +217,48 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 - Morsa 
 - Calibre
 - Tornillos tipo bulón con cabeza hexagonal de 6mm de diámetro x 80mm de largo, con tuerca y arandela
-- Dado hexagonal de la misma medida que el tornillo anterior
+- Dado hexagonal de la misma medida que la tuerca
 
 **Procedimiento:**
 
-- Retiré la rebaba con trincheta.
+- Retiré las rebabas de la pieza desmoldada con trincheta.
 
-![](../images/proy/proc11.png)
+![](../images/proy/proc11.jpg)
 
 - Luego hice las perforaciones para el pasaje del tornillo en taladro de banco, con mecha de 6mm. Sostuve la pieza con una morsa.
 
-![](../images/proy/proc12.png)
+![](../images/proy/proc12.jpg)
 
 En la primera prueba, la perforación quedó torcida, por lo que al probar el conector, no se generó el ángulo de 90° que buscaba.
 Esto lo pude solucionar parcialmente agrandando la perforación en la pieza pequeña a un diámetro de 8mm.
 
-- En la segunda prueba, di vuelta la pieza en la morza para hacer la perforación, lo que me dió menos margen de error. 
-De todas formas, al ser un proceso manual y las piezas nos er exactas, es necesario hacer una perforación de 8mm en la pieza pequeña para lograr la conexión de 90°.
+- En la segunda prueba, di vuelta la pieza en la morsa para hacer la perforación, lo que me dió menos margen de error. 
+De todas formas, al ser un proceso manual y las piezas no ser exactas, es necesario hacer una perforación de 8mm en la pieza pequeña para lograr la conexión de 90°.
 
-![](../images/proy/proc13.png)
+![](../images/proy/proc13.jpg)
 
 *Posición correcta para perforar / "Fresado" para la cabeza del tornillo / Armado y comprobación de ángulo / Primera prueba de pieza armada con 2 conectores.*
 
 
 ## Evaluación y próximos pasos
 
-![](../images/proy/proc14.png)
+![](../images/proy/proc14.jpg)
 
 El proceso en general es relativamente sencillo, pero requiere de algunos insumos y herramientas específicos, lo que puede generar que no sea tan accesible como me propuse al inicio.
 
 Las piezas obtenidas son resistentes y estéticamente agradables, principalmente por los colores y combinaciones que se pueden hacer.
 
-En cuanto a la forma, tiennen una retracción importante, que se nota en las irregularidades que presentan. Sin embargo, esto no impide que funcionen correctamente.
+En cuanto a la forma, el en porceso de enfriado se genera una retracción importante, que se nota en las irregularidades que presentan las piezas terminadas. Sin embargo, esto no impide que funcionen correctamente.
 
-El proceso de generar las piezas lleva un tiempo considerable, en las pruebas que hice, el menor tiempo posible para fabricar un conector completo es de 95 minutos, incluyendo el tiempo de prensado.
+El proceso de fabricación de las piezas lleva un tiempo considerable. En las pruebas que hice, el menor tiempo posible para fabricar un conector completo es de 95 minutos, incluyendo el tiempo de prensado.
+
+Los moldes soportan varios reúsos. En mi caso realicé 12 conectores y los moldes siguen en buenas condiciones para seguir siendo usados. Tuve que cambiar la pieza de 6mm en el sexto reúso.
 
 Las rebabas y virutas que se generan durante el proceso se pueden volver a reciclar en una nueva pieza.
+
+Para fabricar 1 conector se usan aprox. 60 tapitas.
+
+
 
 
 **Identifiqué algunas mejoras a hacer para una siguiente versión:**
@@ -260,4 +269,4 @@ Las rebabas y virutas que se generan durante el proceso se pueden volver a recic
 
 Modelo versión 2:
 
-![](../images/proy/v2.png)
+![](../images/proy/v2.jpg)
