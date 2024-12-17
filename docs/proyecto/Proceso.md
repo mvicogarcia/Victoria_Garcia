@@ -201,8 +201,6 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 
 - El resultado de la superficie fue más rugoso de lo que esperaba. En la segunda prueba subí la temperatura de la prensa a 190°C y obtuve mejores resultados de terminación.
 
-![](../images/proy/proc9.jpg)
-
 ![](../images/proy/proc10.jpg)
 
 *Pieza desmoldada / Prueba a 180°C y a 190°C.*
