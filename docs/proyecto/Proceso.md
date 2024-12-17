@@ -7,13 +7,13 @@ hide:
 
 ## Propuesta de Valor
 
-Acercar a las personas al uso de herramientas de fabricación y generar apropiación de espacios comunitarios a través del armado colectivo de equipamiento con materiales reutilizados y reciclados.
+*Acercar a las personas al uso de herramientas de fabricación y generar apropiación de espacios comunitarios a través del armado colectivo de equipamiento con materiales reutilizados y reciclados.*
 
-Generar y compartir conocimiento sobre los materiales que usamos y su ciclo de vida. 
+*Generar y compartir conocimiento sobre los materiales que usamos y su ciclo de vida.*
 
-Ser activistas del cuidado.
+*Ser activistas del cuidado.*
 
-El enfoque del proyecto es el diseño de sistema de conectores para armado de equipamiento efímero, pensado para el uso de colectivos de vecinxs, grupos, educadores, diseñadores, etc.
+El enfoque del proyecto es el diseño de un sistema de conectores reciclados y reutilizables para armado de equipamiento efímero, pensado para el uso de colectivos de vecinxs, grupos, educadores, diseñadores, etc.
 
 
 ## Lineamientos para el diseño
