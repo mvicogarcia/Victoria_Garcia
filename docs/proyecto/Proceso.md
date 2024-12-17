@@ -242,7 +242,7 @@ De todas formas, al ser un proceso manual y las piezas no ser exactas, es necesa
 
 ![](../images/proy/proc14.jpg)
 
-El proceso en general es relativamente sencillo, pero requiere de algunos insumos y herramientas específicos, lo que puede generar que no sea tan accesible como me propuse al inicio.
+El proceso en general es relativamente sencillo y replicable, pero requiere de algunos insumos y herramientas específicos, lo que puede generar que no sea tan accesible como me propuse al inicio.
 
 Las piezas obtenidas son resistentes y estéticamente agradables, principalmente por los colores y combinaciones que se pueden hacer.
 
