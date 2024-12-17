@@ -77,7 +77,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ![](../images/proy/esqmolde4.png)
 
-- Se componen de dos partes que van atornilladas a la base (tapa 2 o inferior), y una tapa (tapa 1 o superior) con tarugos de madera (tm) que funcionan como guías de encastre.
+- Se componen de dos partes que van atornilladas a la base (tapa 2 o inferior), y una tapa (tapa 1 o superior) con tarugos de madera ( tm ) que funcionan como guías de encastre.
 
 ![](../images/proy/esqmolde.png)
 
