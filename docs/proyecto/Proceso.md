@@ -238,3 +238,24 @@ De todas formas, al ser un proceso manual y las piezas nos er exactas, es necesa
 ## Evaluación y próximos pasos
 
 ![](../images/proy/proc14.png)
+
+El proceso en general es relativamente sencillo, pero requiere de algunos insumos y herramientas específicos, lo que puede generar que no sea tan accesible como me propuse al inicio.
+
+Las piezas obtenidas son resistentes y estéticamente agradables, principalmente por los colores y combinaciones que se pueden hacer.
+
+En cuanto a la forma, tiennen una retracción importante, que se nota en las irregularidades que presentan. Sin embargo, esto no impide que funcionen correctamente.
+
+El proceso de generar las piezas lleva un tiempo considerable, en las pruebas que hice, el menor tiempo posible para fabricar un conector completo es de 95 minutos, incluyendo el tiempo de prensado.
+
+Las rebabas y virutas que se generan durante el proceso se pueden volver a reciclar en una nueva pieza.
+
+
+**Identifiqué algunas mejoras a hacer para una siguiente versión:**
+
+- Cambiar el diseño del molde usando tornillos pasantes en lugar de encolar las piezas. De ésta forma sería más fácil reemplazar piezas si fuese necesario.
+- Se puede reducir el tamaño de las piezas, que están notoriamente sobredimensionadas para la función que cumplen. El límite de la reducción de tamaño estaría dado por el correcto llenado del molde y no tanto por la resistencia de la pieza.
+- Se puede agegar textura en las partes internas de las piezas, que quedan en contacto con las piezas de madera a unir.
+
+Modelo versión 2:
+
+![](../images/proy/v2.png)
