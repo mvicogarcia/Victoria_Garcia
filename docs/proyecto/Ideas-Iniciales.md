@@ -44,5 +44,4 @@ Me planteo **preguntas disparadoras:**
 - [DIY Citizenship](https://direct.mit.edu/books/edited-volume/3410/DIY-CitizenshipCritical-Making-and-Social-Media)
 - [Izaskun Chinchilla - La ciudad de los cuidados](https://www.youtube.com/watch?v=sS733L8EunM)
 - [The Care Manifesto](https://www.uhn.ca/Research/Research_Institutes/The_Institute_for_Education_Research/Events/Documents/Care-Manifesto-Readings.pdf)
-- [Enzo Mari - Autoprogettazione](https://ateliers.esad-pyrenees.fr/web/pages/culturenum/ethique/enzo-mari-autoprogettazione.pdf)
 - [Craftivism](https://commonslibrary.org/craftivism-a-manifesto-methodology/)
