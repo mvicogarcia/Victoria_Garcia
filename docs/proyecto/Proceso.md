@@ -256,15 +256,16 @@ Las rebabas y virutas que se generan durante el proceso se pueden volver a recic
 
 Para fabricar 1 conector se usan aprox. 60 tapitas.
 
-
+![](../images/proy/60.jpg)
 
 
 **Identifiqué algunas mejoras a hacer para una siguiente versión:**
 
-- Cambiar el diseño del molde usando tornillos pasantes en lugar de encolar las piezas. De ésta forma sería más fácil reemplazar piezas si fuese necesario.
+- Cambiar el diseño del molde usando tornillos pasantes en lugar de encolar las piezas. De ésta forma sería más fácil reemplazar piezas si fuese necesario, y le da más rigidez frente a la presión que se genera al prensar el plástico.
 - Se puede reducir el tamaño de las piezas, que están notoriamente sobredimensionadas para la función que cumplen. El límite de la reducción de tamaño estaría dado por el correcto llenado del molde y no tanto por la resistencia de la pieza.
-- Se puede agegar textura en las partes internas de las piezas, que quedan en contacto con las piezas de madera a unir.
+- Se puede agegar textura en las partes internas de las piezas, que quedan en contacto con las piezas de madera a unir, para dar más agarre.
 
-Modelo versión 2:
+
+*Modelo versión 2:*
 
 ![](../images/proy/v2.jpg)
