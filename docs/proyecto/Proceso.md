@@ -269,3 +269,15 @@ Para fabricar 1 conector se usan aprox. 60 tapitas.
 *Modelo versión 2:*
 
 ![](../images/proy/v2.jpg)
+
+
+## Intercambios y comentarios
+
+Durante el proceso de diseño y en la etapa de preentrega, me puse en contacto con los proyectos que había entrevistado, para compartirles lo que venía trabajando y tener una devolución.
+
+Estos son algunos de los comentarios que surgieron:
+
+- *Nos parece que la propuesta es muy interesante, especialmente por su versatilidad, flexibilidad y el enfoque en la reutilización de materiales.*
+- *Nos parece valioso que, al ser una pieza conectora, pueda combinarse con distintos tipos de placas y espesores, lo que sin duda abre muchas posibilidades.*
+- *Como idea a futuro tal vez se podría ver la posibilidad de tener un ángulo distinto a 90 grados, que permita por ejemplo generar planos inclinados.*
+
