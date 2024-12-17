@@ -8,9 +8,9 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 **[Cómo hacer los moldes]()**
 
-**[Archivos vectoriales para descargar](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)**
+**[Descargar archivos vectoriales moldes](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)**
 
-**[Archivos de corte para cnc para descargar](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)**
+**[Descargar archivos de corte para cnc](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)**
 
 
 
