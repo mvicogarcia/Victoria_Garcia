@@ -103,7 +103,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 
 ### Armado del molde
 
-Materiales y herramientas utilizados:
+**Materiales y herramientas utilizados:**
 
 - Recortes de mdf de 18mm
 - Recortes de multiplaca de 6mm
@@ -114,7 +114,7 @@ Materiales y herramientas utilizados:
 - Atornilladora eléctrica
 - Tornillos para madera (aprox. 4cm de largo)
 
-Procedimiento:
+**Procedimiento:**
 
 - Generé los archivos de corte para CNC en base a los diseños vectoriales.
 - Hice los cortes en un cnc de 80x80 con fresa de 2mm de diámetro, sobre mdf de 18mm y multiplaca de 6mm.
@@ -139,7 +139,7 @@ Procedimiento:
 
 ### Pruebas con plástico reciclado
 
-Materiales y herramientas utilizados:
+**Materiales y herramientas utilizados:**
 
 - Tapitas de PEAD 
 - Los moldes armados en el paso anterior
@@ -163,7 +163,8 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 
 ![](../images/proy/tapitas.jpg)
 
-Procedimiento:
+
+**Procedimiento:**
 
 - Calculé la cantidad de plástico de acuerdo a la densidad, me dió aprox. 40 g para la pieza pqueña y 80 g para la grande. Luego de las pruebas lo ajusté a 34g y 72g respectivamente.
 - Preparé el molde rociándolo con silicona en spray.
