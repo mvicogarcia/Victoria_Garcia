@@ -36,7 +36,7 @@ Me planteo **preguntas disparadoras:**
 
 
 
-## Referencias:
+## Referencias / Inspiración:
 
 - [Club de Reparadores x Uruguay](https://www.instagram.com/clubdereparadoresuy/?hl=es)
 - [Basurama](https://basurama.org/)

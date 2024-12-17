@@ -53,7 +53,7 @@ Luego del intercambio con Agustina, Noelia y Matías, y teniendo en cuenta lo qu
 
 
 
-## Referencias:
+## Referencias / Inspiración:
 
 - [Precious Plastic](https://www.preciousplastic.com/)
 - [Victor Papanek](https://elasombrario.publico.es/papanek-pionero-del-diseno-social-y-sostenible/)
