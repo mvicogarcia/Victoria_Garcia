@@ -161,7 +161,7 @@ Son dos moldes, uno para cada pieza, que siguen la misma lógica:
 - Silicona en spray (como desmoldante)
 - Balanza
 
-Para las pruebas Utilicé polietileno de alta densidad (proveniente de tapitas, plástico de un solo uso). Se  clasifica con el N°2 y suele estar marcado con este número dentro de un triángulo de flechas, con las siglas PEAD o HDPE.
+Para las pruebas utilicé polietileno de alta densidad (proveniente de tapitas, plástico de un solo uso). Se  clasifica con el N°2 y suele estar marcado con este número dentro de un triángulo de flechas, con las siglas PEAD o HDPE.
 
 ![](../images/proy/pead.png)
 
@@ -204,6 +204,14 @@ El polietileno de alta densidad se consigue y se identifica fácilmente, hay dis
 ![](../images/proy/proc10.jpg)
 
 *Pieza desmoldada / Prueba a 180°C y a 190°C.*
+
+**Prensado**
+
+Tras realizar algunas pruebas, llegué a los siguientes **tiempos mínimos para que las piezas no se deformen:**
+
+- Pieza pequeña: la podemos sacar de la prensa hidráulica a los 10 minutos y apretarla con prensas tipo G de carpintería por 20 min más. 
+- Pieza grande: la podemos sacar de la prensa hidráulica a los 20 minutos y apretarla con prensas tipo G de carpintería por 30 min más.
+
 
 
 ### Armado del conector
