@@ -119,18 +119,25 @@ Procedimiento:
 - Generé los archivos de corte para CNC en base a los diseños vectoriales.
 - Hice los cortes en un cnc de 80x80 con fresa de 2mm de diámetro, sobre mdf de 18mm y multiplaca de 6mm.
 
-- Luego lijé las piezas cortadas para armar las diferentes partes de los moldes. Las dejé prensadas secando de un día para otro. Luego de secas, les di un lijado manual para emparejar la superficie.
+![](../images/proy/cnc.gif)
 
+- Luego lijé las piezas cortadas para armar las diferentes partes de los moldes. Las dejé prensadas secando de un día para otro. Luego de secas, les di un lijado manual para emparejar la superficie.
 - Encolé las piezas y coloqué los tarugo (guías de encastre).
 
+![](../images/proy/proc1.jpg)
+
 - Atornillé las diferentes partes del molde.
+
+![](../images/proy/proc2.jpg)
 
 - Luego de la primera prueba con el plástico, hice algunas modificaciones: 
     - Coloqué lámina de teflón adhesiva en los lugares más propensos a que se pegue el plástico, que fueron en las aristas más cerradas.
     - Vi que la presión de la prensa hacía que el molde se abriera un poco, por eso agregué una contención exterior de madera. 
 
+![](../images/proy/proc3.jpg)
 
-### Prueba con plástico reciclado
+
+### Pruebas con plástico reciclado
 
 Materiales y herramientas utilizados:
 
@@ -138,6 +145,48 @@ Materiales y herramientas utilizados:
 - Los moldes armados en el paso anterior
 - Prensa eléctrica sublimadora (también se puede utilizar horno eléctrico, pero no es recomendable luego usarlo para comida)
 - Láminas de teflón (como antiadherente para la prensa)
+- Guantes de silicona forrados (para alta temperatura).
+- Prensa hidraúlica manual de 12 Toneladas 
+- Trincheta
+- Lámina de teflón adhesivo
+- Destornilladores
+- Espátula
+- Silicona en spray (como desmoldante)
+- Balanza
+
+Para las pruebas Utilicé polietileno de alta densidad (proveniente de tapitas, plástico de un solo uso). Se  clasifica con el N°2 y suele estar marcado con este número dentro de un triángulo de flechas, con las siglas PEAD o HDPE.
+
+![](../images/proy/pead.jpg)
+
+Elegí usar un solo tipo de plástico para garantizar que se genere un objeto reciclable. 
+El polietileno de alta densidad se consigue y se identifica fácilmente, hay disponibilidad de colores, y tiene un rango amplio de temperatura en el que se puede trabajar sin que se generen emisiones dañinas para la salud o el ambiente (entre los 140 y 220 °C aprox.).
+
+![](../images/proy/tapitas.jpg)
+
+Procedimiento:
+
+- Calculé la cantidad de plástico de acuerdo a la densidad, me dió aprox. 40 g para la pieza pqueña y 80 g para la grande. Luego de las pruebas lo ajusté a 34g y 72g respectivamente.
+- Preparé el molde rociándolo con silicona en spray.
+- Pesé la cantidad de plástico (tapitas) a utilizar en la balanza.
+- Prendí la prensa sublimadora a 180°C y 10min.
+- Coloqué las tapitas en la sublimadora entre dos láminas de teflón. 
+- Luego de pasados los 10 min, saqué el plástico que en esta instancia es una masa caliente. Lo manipulé con los guantes.
+- Con la ayuda de un destornillador (tipo paleta) y los guantes, lo coloqué dentro del molde y le puse la tapa, usando los tarugos como guía.
+- Puse el molde en la prensa y prensé hasta que sentí que me oponía mucha resistencia y la tapa estaba totalmente cerrada.
+- Pasados 30 minutos liberé la prensa y demoldé la pieza.
+
+- El resultado de la superficie fue más rugoso de lo que esperaba. En la segunda prueba subí la temperatura de la prensa a 190°C y obtuve mejores resultados de terminación.
+
+
+### Armado del conector
+
+Materiales y herramientas utilizados:
+
+- Tapitas de PEAD 
+- Los moldes armados en el paso anterior
+- Prensa eléctrica sublimadora (también se puede utilizar horno eléctrico, pero no es recomendable luego usarlo para comida)
+- Láminas de teflón (como antiadherente para la prensa)
+- Guantes de silicona forrados (para alta temperatura).
 - Prensa hidraúlica manual de 12 Toneladas 
 - Tricheta
 - Lámina de teflón adhesivo
@@ -150,21 +199,5 @@ Materiales y herramientas utilizados:
 - Balanza
 - Tornillos tipo bulón con cabeza hexagonal de 6mm de diámetro x 80mm de largo, con tuerca y arandela
 - Dado hexagonal de la misma medida que el tornillo anterior
-
-
-Para las pruebas Utilicé polietileno de alta densidad (proveniente de tapitas, plástico de un solo uso). Se  clasifica con el N°2 y suele estar marcado con este número dentro de un triángulo de flechas, con las siglas PEAD o HDPE.
-
-![](../images/proy/pead.jpg)
-
-Elegí usar un solo tipo de plástico para garantizar que se genere un objeto reciclable. 
-El polietileno de alta densidad se consigue y se identifica fácilmente, hay disponibilidad de colores, y tiene un rango amplio de temperatura en el que se puede trabajar sin que se generen emisiones dañinas para la salud o el ambiente (entre los 140 y 220 °C aprox.).
-
-![](../images/proy/tapitas.jpg)
-
-Para hacer la prueba utilicé:
-- 
-
-### Armado del conector
-
 
 ## Evaluación y próximos pasos
