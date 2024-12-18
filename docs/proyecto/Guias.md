@@ -18,10 +18,10 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 ![](../images/proy/omarcito.png)
 
-**[Cómo fabricar los conectores](https://drive.google.com/file/d/1xcBaP-jZxpnHqut9iD6R41gH-emJ6iC1/view?usp=drive_link)**
+**[Cómo fabricar los conectores](https://drive.google.com/file/d/1b4eOT2tkDfUhSjBZt6oGQyYGIlmHxYJq/view?usp=drive_link)**
 
 
 
-![](../images/proy/banquito.jpg)
+![](../images/proy/banquito.png)
 
 **[Cómo armar un banquito](https://drive.google.com/file/d/1gXDzxLfSVi-xltu_lFQRkUiGiJT_4jPA/view?usp=drive_link)**
