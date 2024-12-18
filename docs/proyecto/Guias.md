@@ -10,6 +10,8 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 ![](../images/proy/gmol.png)
 
+**[Descargar modelo Sketchup del molde](https://drive.google.com/file/d/1iJEiJEimJd8N8y40chVy1mVpe-w9Zkym/view?usp=sharing)**
+
 **[Descargar archivos vectoriales moldes](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)**
 
 **[Descargar archivos de corte para cnc](https://drive.google.com/drive/folders/1XYgZxli9mBeimtkZXH1mR-BFumYxReyt?usp=drive_link)**
@@ -23,6 +25,8 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 **[Cómo fabricar los conectores](https://drive.google.com/file/d/1xcBaP-jZxpnHqut9iD6R41gH-emJ6iC1/view?usp=drive_link)**
 
 ![](../images/proy/gcon.png)
+
+**[Descargar modelo Sketchup del conector](https://drive.google.com/file/d/1Qa_AFtSCxyBu_k_-8zlhR0aEqW0uNJh9/view?usp=sharing)**
 
 
 
