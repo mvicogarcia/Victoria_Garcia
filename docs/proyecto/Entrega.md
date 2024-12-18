@@ -5,7 +5,7 @@ hide:
 
 # Entrega
 
-**[Presentación](https://miro.com/app/board/uXjVKHP9YvI=/?share_link_id=628141952520)**
+**[Ver la presentación en MIRO](https://miro.com/app/board/uXjVKHP9YvI=/?share_link_id=628141952520)**
 
 
 ![](../images/proy/E1.jpg)
