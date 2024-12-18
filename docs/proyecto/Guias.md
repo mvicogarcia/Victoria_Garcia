@@ -6,7 +6,7 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 ![](../images/proy/moldecito.jpg)
 
-**[Cómo hacer los moldes](https://drive.google.com/file/d/1z6I91ZWsltIJ4ywpQn7EMh54YxlmM53z/view?usp=drive_link)**
+**[Cómo hacer los moldes](https://drive.google.com/file/d/1b0JqS9Fdvn0cBmjlGBO8-Pjs6C_eTU-e/view?usp=drive_link)**
 
 **[Descargar archivos vectoriales moldes](https://drive.google.com/file/d/1Hw_IUKTYbBiqGcHl0Zttv3H8hpmUacNr/view?usp=drive_link)**
 
@@ -18,10 +18,10 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 ![](../images/proy/omarcito.png)
 
-**[Cómo fabricar los conectores]()**
+**[Cómo fabricar los conectores](https://drive.google.com/file/d/1xcBaP-jZxpnHqut9iD6R41gH-emJ6iC1/view?usp=drive_link)**
 
 
 
 ![](../images/proy/banquito.jpg)
 
-**[Cómo armar un banquito y una mesa]()**
+**[Cómo armar un banquito]()**

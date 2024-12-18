@@ -218,8 +218,8 @@ Tras realizar algunas pruebas, llegué a los siguientes **tiempos mínimos para 
 
 **Materiales y herramientas utilizados:**
 
-- Tricheta
-- Taladro de banco + mechas para metal de 6, 8 y 12mm de diémtro
+- Trincheta
+- Taladro de banco + mechas para metal de 6, 8 y 12mm de diámetro
 - Morsa 
 - Calibre
 - Tornillos tipo bulón con cabeza hexagonal de 6mm de diámetro x 80mm de largo, con tuerca y arandela
