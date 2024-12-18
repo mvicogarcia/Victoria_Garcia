@@ -24,4 +24,4 @@ En ésta sección encontrarás el paso a paso y los materiales que necesitas par
 
 ![](../images/proy/banquito.jpg)
 
-**[Cómo armar un banquito]()**
+**[Cómo armar un banquito](https://drive.google.com/file/d/1gXDzxLfSVi-xltu_lFQRkUiGiJT_4jPA/view?usp=drive_link)**
