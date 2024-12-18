@@ -65,7 +65,7 @@ El diseño macizo de las piezas no responde a una exigencia estructural, sino a 
 
 *Vista del modelo, donde se ven las perforaciones para el pasaje del tornillo, y fresado para la cabeza. Estas perforaciones se hacen con taladro luego de desmoldadas las piezas.*
 
-[Modelo Sketchup para descargar](https://drive.google.com/file/d/1_ErjLMD-E-XXQpQrF93tBzpMjBmFZzFE/view?usp=drive_link)
+[Modelo Sketchup para descargar](https://drive.google.com/file/d/1Qa_AFtSCxyBu_k_-8zlhR0aEqW0uNJh9/view?usp=sharing)
 
 
 
