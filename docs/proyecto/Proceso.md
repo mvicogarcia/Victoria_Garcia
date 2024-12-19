@@ -288,6 +288,9 @@ Estos son algunos de los comentarios que surgieron:
 - *Nos parece que la propuesta es muy interesante, especialmente por su versatilidad, flexibilidad y el enfoque en la reutilización de materiales.*
 - *Nos parece valioso que, al ser una pieza conectora, pueda combinarse con distintos tipos de placas y espesores, lo que sin duda abre muchas posibilidades.*
 - *Como idea a futuro tal vez se podría ver la posibilidad de tener un ángulo distinto a 90 grados, que permita por ejemplo generar planos inclinados.*
+- *Es aplicable a los talleres que hacemos con grupos.*
+- *Viendo el tornillo, podría ser una tuerca mariposa, para facilitar desmontaje. O en caso de querer que quede fijo, una tuerca con freno. Otra cosa que vería es el largo del tornillo.*
+- *Para que no quede el conector sobresaliendo se podría hacer un calado en la madera.*
 
 
 ## Aplicación 
