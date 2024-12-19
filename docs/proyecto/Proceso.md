@@ -262,7 +262,7 @@ Los moldes soportan varios reúsos. En mi caso realicé 12 conectores y los mold
 
 Las rebabas y virutas que se generan durante el proceso se pueden volver a reciclar en una nueva pieza.
 
-Para fabricar 1 conector se usan aprox. 60 tapitas.
+**Para fabricar 1 conector se usan aprox. 60 tapitas.**
 
 ![](../images/proy/60.png)
 
@@ -289,3 +289,15 @@ Estos son algunos de los comentarios que surgieron:
 - *Nos parece valioso que, al ser una pieza conectora, pueda combinarse con distintos tipos de placas y espesores, lo que sin duda abre muchas posibilidades.*
 - *Como idea a futuro tal vez se podría ver la posibilidad de tener un ángulo distinto a 90 grados, que permita por ejemplo generar planos inclinados.*
 
+
+## Aplicación 
+
+Ensayé 2 posibles aplicaciones armando banquitos:
+
+![](../images/proy/proto1.jpg)
+
+![](../images/proy/proto2.jpg)
+
+![](../images/proy/proto3.jpg)
+
+![](../images/proy/proto4.jpg)
